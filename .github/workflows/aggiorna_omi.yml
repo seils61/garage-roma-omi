@@ -1,0 +1,32 @@
+name: Aggiorna dati OMI Roma (garage)
+
+on:
+  schedule:
+    - cron: '0 6 1 1,7 *'
+  workflow_dispatch:
+
+jobs:
+  aggiorna-omi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installa dipendenze
+        run: pip install -r requirements.txt
+
+      - name: Esegui script estrazione OMI
+        run: python 01_estrai_omi_roma.py
+
+      - name: Commit e push risultati
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add omi_roma_garage.json
+          git diff --staged --quiet || git commit -m "Aggiornamento automatico dati OMI Roma garage"
+          git push
