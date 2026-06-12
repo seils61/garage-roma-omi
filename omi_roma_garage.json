@@ -1,0 +1,1432 @@
+{
+  "C1": {
+    "compr_min": 1850.0,
+    "compr_max": 2750.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PARIOLI (PIAZZA EUCLIDE)"
+  },
+  "C10": {
+    "compr_min": 1200.0,
+    "compr_max": 1700.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "GARBATELLA (LARGO DELLE SETTE CHIESE)"
+  },
+  "C11": {
+    "compr_min": 1150.0,
+    "compr_max": 1650.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MARCONI (PIAZZA ENRICO FERMI)"
+  },
+  "C12": {
+    "compr_min": 1750.0,
+    "compr_max": 2400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MONTEVERDE VECCHIO (VIA POERIO)"
+  },
+  "C13": {
+    "compr_min": 1400.0,
+    "compr_max": 1800.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MONTEVERDE NUOVO (VIA DI DONNA OLIMPIA)"
+  },
+  "C14": {
+    "compr_min": 1250.0,
+    "compr_max": 1800.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "AURELIO MONTE DI CRETA (PIAZZA IRNERIO)"
+  },
+  "C15": {
+    "compr_min": 1400.0,
+    "compr_max": 1850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "AURELIO GREGORIO VII (VIA GREGORIO VII)"
+  },
+  "C17": {
+    "compr_min": 1600.0,
+    "compr_max": 2250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "BALDUINA GIOVENALE (VIA DELLE MEDAGLIE D`ORO)"
+  },
+  "C18": {
+    "compr_min": 1450.0,
+    "compr_max": 2050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CIPRO (VIA ANGELO EMO)"
+  },
+  "C19": {
+    "compr_min": 1450.0,
+    "compr_max": 2050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PONTE MILVIO-FARNESINA (VIA DELLA FARNESINA)"
+  },
+  "C21": {
+    "compr_min": 1600.0,
+    "compr_max": 2350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "SALARIO AFRICANO (VIALE LIBIA)"
+  },
+  "C22": {
+    "compr_min": 1500.0,
+    "compr_max": 2100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "BATTERIA NOMENTANA-LANCIANI (VIA COSTANTINO MAES)"
+  },
+  "C24": {
+    "compr_min": 1600.0,
+    "compr_max": 2350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "BOLOGNA (VIA LIVORNO)"
+  },
+  "C27": {
+    "compr_min": 1400.0,
+    "compr_max": 2100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PORTA PORTESE (VIA ETTORE ROLLI)"
+  },
+  "C29": {
+    "compr_min": 1050.0,
+    "compr_max": 1450.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASAL BERTONE-PORTONACCIO (VIA DI CASAL BERTONE)"
+  },
+  "C3": {
+    "compr_min": 2300.0,
+    "compr_max": 3200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PINCIANO (VIA GIOVANNI PAISIELLO)"
+  },
+  "C30": {
+    "compr_min": 1200.0,
+    "compr_max": 1700.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PIGNETO (PIAZZA DEL PIGNETO)"
+  },
+  "C31": {
+    "compr_min": 1650.0,
+    "compr_max": 2400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MARCO POLO (VIALE MARCO POLO)"
+  },
+  "C32": {
+    "compr_min": 1250.0,
+    "compr_max": 1650.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "OSTIENSE (VIA DEL PORTO FLUVIALE)"
+  },
+  "C35": {
+    "compr_min": 1250.0,
+    "compr_max": 1800.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "AURELIO MADONNA DEL RIPOSO (VIA BENTIVOGLIO)"
+  },
+  "C4": {
+    "compr_min": 2050.0,
+    "compr_max": 2850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "NOMENTANO TORLONIA (PIAZZA GALENO)"
+  },
+  "C40": {
+    "compr_min": 2250.0,
+    "compr_max": 3100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PRATI (VIA COLA DI RIENZO)"
+  },
+  "C41": {
+    "compr_min": 1750.0,
+    "compr_max": 2450.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "DELLA VITTORIA (PIAZZA MAZZINI)"
+  },
+  "C42": {
+    "compr_min": 1400.0,
+    "compr_max": 2100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "VIGNA CLARA (VIA DI VIGNA STELLUTI)"
+  },
+  "C43": {
+    "compr_min": 1400.0,
+    "compr_max": 2050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TRIONFALE IGEA (VIA MARIO FANI)"
+  },
+  "C45": {
+    "compr_min": 1300.0,
+    "compr_max": 1850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "NOCETTA (VIA DELLA NOCETTA)"
+  },
+  "C46": {
+    "compr_min": 2200.0,
+    "compr_max": 2950.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "SALARIO TRIESTE (CORSO TRIESTE)"
+  },
+  "C47": {
+    "compr_min": 1400.0,
+    "compr_max": 2100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "BALDUINA BELSITO (PIAZZA MADONNA DEL CENACOLO)"
+  },
+  "C48": {
+    "compr_min": 1000.0,
+    "compr_max": 1500.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOR MARANCIA NAVIGATORI (VIA C.T.ODESCALCHI)"
+  },
+  "C49": {
+    "compr_min": 1850.0,
+    "compr_max": 2550.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "FLAMINIO (VIA G. RENI)"
+  },
+  "C51": {
+    "compr_min": 1300.0,
+    "compr_max": 1850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "APPIO LATINO (VIA LATINA)"
+  },
+  "C52": {
+    "compr_min": 1450.0,
+    "compr_max": 2000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "COLLINA FLEMING (VIA BEVAGNA)"
+  },
+  "C7": {
+    "compr_min": 1600.0,
+    "compr_max": 2250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "APPIO VILLA FIORELLI (VIA TARANTO)"
+  },
+  "C8": {
+    "compr_min": 1300.0,
+    "compr_max": 1850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "APPIO NOCERA UMBRA (PIAZZA S.MARIA AUSILIATRICE)"
+  },
+  "C9": {
+    "compr_min": 1550.0,
+    "compr_max": 2150.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "C",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "APPIO METRONIO (PIAZZA TUSCOLO)"
+  },
+  "D1": {
+    "compr_min": 1100.0,
+    "compr_max": 1550.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PRENESTINO LABICANO (VIALE PARTENOPE,VIA TEANO)"
+  },
+  "D11": {
+    "compr_min": 1000.0,
+    "compr_max": 1500.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MONTESACRO (VIALE ADRIATICO)"
+  },
+  "D12": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "VALMELAINA-TUFELLO (VIA DELLE ISOLE CURZOLANE)"
+  },
+  "D14": {
+    "compr_min": 1050.0,
+    "compr_max": 1350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CENTOCELLE (PIAZZA DEI MIRTI)"
+  },
+  "D15": {
+    "compr_min": 1250.0,
+    "compr_max": 1800.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "ARDEATINO OTTAVO COLLE (VIA DEL SERAFICO)"
+  },
+  "D16": {
+    "compr_min": 1150.0,
+    "compr_max": 1550.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PIETRALATA TIBURTINO (VIA FILIPPO MEDA)"
+  },
+  "D17": {
+    "compr_min": 900.0,
+    "compr_max": 1350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "COLLATINO (VIA DELLA SERENISSIMA)"
+  },
+  "D18": {
+    "compr_min": 750.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "ALESSANDRINO (VIALE ALESSANDRINO)"
+  },
+  "D19": {
+    "compr_min": 900.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CINECITTA` DON BOSCO (PIAZZA S.GIOVANNI BOSCO)"
+  },
+  "D2": {
+    "compr_min": 850.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOR PIGNATTARA (VIA DI TOR PIGNATTARA)"
+  },
+  "D20": {
+    "compr_min": 900.0,
+    "compr_max": 1300.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CINECITTA` LAMARO (VIA RAIMONDO SCINTU)"
+  },
+  "D21": {
+    "compr_min": 1200.0,
+    "compr_max": 1750.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "APPIO CLAUDIO (VIALE GIULIO AGRICOLA)"
+  },
+  "D22": {
+    "compr_min": 1050.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "STATUARIO-CAPANNELLE (VIA DEL CALICE)"
+  },
+  "D24": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PRIMAVALLE-TORREVECCHIA (VIA DI TORREVECCHIA)"
+  },
+  "D27": {
+    "compr_min": 1000.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TALENTI (VIA UGO OJETTI)"
+  },
+  "D28": {
+    "compr_min": 1150.0,
+    "compr_max": 1600.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "GIULIANO DALMATA (VIA MATTEO BARTOLI)"
+  },
+  "D29": {
+    "compr_min": 1500.0,
+    "compr_max": 2200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "EUR (VIALE EUROPA)"
+  },
+  "D30": {
+    "compr_min": 950.0,
+    "compr_max": 1300.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOMBA DI NERONE (VIA DI GROTTAROSSA)"
+  },
+  "D31": {
+    "compr_min": 1000.0,
+    "compr_max": 1450.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASSIA DUE PONTI (VIA ORIOLO ROMANO)"
+  },
+  "D32": {
+    "compr_min": 1000.0,
+    "compr_max": 1450.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "FONTE MERAVIGLIOSA-ARDEATINO MILLEVOI(VIA STEFANO GRADI)"
+  },
+  "D34": {
+    "compr_min": 1000.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MONTAGNOLA (VIA PICO DELLA MIRANDOLA)"
+  },
+  "D36": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "GROTTA PERFETTA-ROMA 70 (VIALE ERMINIO SPALLA)"
+  },
+  "D38": {
+    "compr_min": 1000.0,
+    "compr_max": 1500.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TINTORETTO (VIA BALLARIN)"
+  },
+  "D45": {
+    "compr_min": 1000.0,
+    "compr_max": 1500.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PINETA SACCHETTI (VIA MATTIA BATTISTINI)"
+  },
+  "D46": {
+    "compr_min": 1000.0,
+    "compr_max": 1350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CONCA D`ORO (VIA VAL DI LANZO)"
+  },
+  "D47": {
+    "compr_min": 1050.0,
+    "compr_max": 1550.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "SACCO PASTORE (VIA VAL TROMPIA)"
+  },
+  "D48": {
+    "compr_min": 850.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PIETRALATA (VIA DI PIETRALATA)"
+  },
+  "D49": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASAL BRUCIATO (VIA C. FACCHINETTI)"
+  },
+  "D5": {
+    "compr_min": 1050.0,
+    "compr_max": 1500.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "SAN PAOLO (VIA TULLIO LEVI CIVITA)"
+  },
+  "D52": {
+    "compr_min": 900.0,
+    "compr_max": 1300.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASILINO VILLA DE SANTIS (VIA ROMOLO BALZANI)"
+  },
+  "D53": {
+    "compr_min": 850.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "QUADRARO (VIA DEI QUINTILI)"
+  },
+  "D54": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "ARCO DI TRAVERTINO-TOR FISCALE (VIA DEMETRIADE)"
+  },
+  "D57": {
+    "compr_min": 900.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "NOMENTANO KANT (VIALE KANT)"
+  },
+  "D58": {
+    "compr_min": 950.0,
+    "compr_max": 1300.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PODERE ROSA (VIA DIEGO FABBRI)"
+  },
+  "D59": {
+    "compr_min": 850.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASAL DEI PAZZI (VIA DI CASAL DEI PAZZI)"
+  },
+  "D61": {
+    "compr_min": 900.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "COLLI ANIENE-VERDEROCCA (VIA GROTTA DI GREGNA)"
+  },
+  "D63": {
+    "compr_min": 800.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOR TRE TESTE (VIA DAVIDE CAMPARI)"
+  },
+  "D64": {
+    "compr_min": 850.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRE SPACCATA (VIA DEI ROMANISTI)"
+  },
+  "D66": {
+    "compr_min": 850.0,
+    "compr_max": 1150.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRACCIA DI SAN BASILIO (VIA DONATO MENICHELLA)"
+  },
+  "D68": {
+    "compr_min": 1150.0,
+    "compr_max": 1650.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CORTINA D`AMPEZZO (VIA CORTINA D`AMPEZZO)"
+  },
+  "D69": {
+    "compr_min": 850.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MONTE MARIO ALTO (VIA AUGUSTO CONTI)"
+  },
+  "D7": {
+    "compr_min": 1000.0,
+    "compr_max": 1450.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PORTUENSE (VIA PROSPERO COLONNA)"
+  },
+  "D70": {
+    "compr_min": 1150.0,
+    "compr_max": 1600.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PORTUENSE AFFOGALASINO (VIA AFFOGALASINO)"
+  },
+  "D71": {
+    "compr_min": 1000.0,
+    "compr_max": 1350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "NUOVO SALARIO-PRATI FISCALI (VIA MONTE CERVIALTO)"
+  },
+  "D73": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASETTA MATTEI (VIA DEGLI ADIMARI)"
+  },
+  "D74": {
+    "compr_min": 800.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TRULLO (VIA MONTE DELLE CAPRE)"
+  },
+  "D75": {
+    "compr_min": 850.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "BOSCO DEGLI ARVALI (VIA DI GENEROSA)"
+  },
+  "D76": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PISANA-BRAVETTA (VIA DEI GONZAGA)"
+  },
+  "D77": {
+    "compr_min": 1000.0,
+    "compr_max": 1450.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "AURELIO VAL CANNUTA (VIA DI VAL CANNUTA)"
+  },
+  "D78": {
+    "compr_min": 1050.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "FERRATELLA (VIALE CESARE PAVESE)"
+  },
+  "D79": {
+    "compr_min": 950.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRINO SUD (VIA DEL FIUME GIALLO)"
+  },
+  "D8": {
+    "compr_min": 750.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MAGLIANA (VIA DELL`IMPRUNETA)"
+  },
+  "D80": {
+    "compr_min": 950.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRINO NORD-CITTA` D`EUROPA (VIA DELLE COSTELLAZIONI)"
+  },
+  "D82": {
+    "compr_min": 900.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MOSTACCIANO (VIALE BEATA VERGINE DEL CARMELO)"
+  },
+  "D9": {
+    "compr_min": 1250.0,
+    "compr_max": 1850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "D",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "COLLI PORTUENSI (PIAZZALE EUGENIO MORELLI)"
+  },
+  "E10": {
+    "compr_min": 700.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MORENA-CASAL MORENA (VIA CASAL MORENA)"
+  },
+  "E11": {
+    "compr_min": 700.0,
+    "compr_max": 900.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "GIARDINETTI (VIA MARCANTONIO RAIMONDI)"
+  },
+  "E113": {
+    "compr_min": 850.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASALOTTI SELVA CANDIDA (VIA DI SELVA NERA)"
+  },
+  "E114": {
+    "compr_min": 650.0,
+    "compr_max": 950.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "OTTAVIA LUCCHINA (VIA DELLA LUCCHINA)"
+  },
+  "E12": {
+    "compr_min": 700.0,
+    "compr_max": 900.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASALOTTI (PIAZZA ORMEA)"
+  },
+  "E123": {
+    "compr_min": 800.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "LA CINQUINA-BUFALOTTA (VIA FEO BELCARI)"
+  },
+  "E13": {
+    "compr_min": 850.0,
+    "compr_max": 1150.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "FONTE OSTIENSE (VIALE IGNAZIO SILONE)"
+  },
+  "E132": {
+    "compr_min": 650.0,
+    "compr_max": 900.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "LA RUSTICA (VIA ACHILLE VERTUNNI)"
+  },
+  "E138": {
+    "compr_min": 700.0,
+    "compr_max": 950.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOR BELLA MONACA PEEP (VIA DELL`ARCHEOLOGIA)"
+  },
+  "E139": {
+    "compr_min": 650.0,
+    "compr_max": 850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOR BELLA MONACA-VALLE FIORITA-DUE LEONI (VIA ACQUARONI)"
+  },
+  "E14": {
+    "compr_min": 850.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TOR SAPIENZA-ZONA INDUSTRIALE VIA DELL`OMO (VIALE GIORGIO DE CHIRICO)"
+  },
+  "E140": {
+    "compr_min": 650.0,
+    "compr_max": 850.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRENOVA (VIA DELLA TENUTA DI TORRENOVA)"
+  },
+  "E141": {
+    "compr_min": 850.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CINECITTA` EST (VIALE ANTONIO CIAMARRA)"
+  },
+  "E146": {
+    "compr_min": 850.0,
+    "compr_max": 1200.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MORENA GASPERINA (VIA CROPANI)"
+  },
+  "E15": {
+    "compr_min": 700.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRE ANGELA (VIA DEL TORRACCIO DI TORRENOVA)"
+  },
+  "E165": {
+    "compr_min": 750.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "LUNGHEZZA-CASTELVERDE-FOSSO SAN GIULIANO (VIA DEL FOSSO DELL`OSA)"
+  },
+  "E17": {
+    "compr_min": 750.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "OTTAVIA PALMAROLA (VIA DELLA PALMAROLA)"
+  },
+  "E19": {
+    "compr_min": 750.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "BORGHESIANA-FINOCCHIO (VIA DI BORGHESIANA)"
+  },
+  "E21": {
+    "compr_min": 750.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "SPINACETO-TOR DE` CENCI (VIALE DEGLI EROI DI CEFALONIA)"
+  },
+  "E24": {
+    "compr_min": 800.0,
+    "compr_max": 1050.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "LA GIUSTINIANA (VIA ITALO PICCAGLI)"
+  },
+  "E25": {
+    "compr_min": 700.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "PRIMA PORTA (VIA DELLA VILLA DI LIVIA)"
+  },
+  "E26": {
+    "compr_min": 750.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "LA STORTA (VIA DELLA TORRE DI SPIZZICHINO)"
+  },
+  "E27": {
+    "compr_min": 700.0,
+    "compr_max": 950.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "LABARO (VIA GEMONA DEL FRIULI)"
+  },
+  "E28": {
+    "compr_min": 700.0,
+    "compr_max": 950.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRE GAIA-VILLAGGIO BREDA (VIA DI GROTTE CELONI)"
+  },
+  "E3": {
+    "compr_min": 800.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "TORRE MAURA (VIA WALTER TOBAGI)"
+  },
+  "E30": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASAL PALOCCO (VIALE GORGIA DI LEONTINI)"
+  },
+  "E33": {
+    "compr_min": 800.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "ACILIA SUD (VIA DI PRATO CORNELIO)"
+  },
+  "E34": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "OSTIA (VIA DELLE BALENIERE)"
+  },
+  "E40": {
+    "compr_min": 950.0,
+    "compr_max": 1400.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "COLLE SALARIO (VIA MONTE GIBERTO)"
+  },
+  "E41": {
+    "compr_min": 850.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "FIDENE-VILLA SPADA (VIA RADICOFANI)"
+  },
+  "E42": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "SERPENTARA (VIALE LINA CAVALIERI)"
+  },
+  "E47": {
+    "compr_min": 900.0,
+    "compr_max": 1150.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "VIGNE NUOVE-PORTA DI ROMA (VIA DELLE VIGNE NUOVE)"
+  },
+  "E49": {
+    "compr_min": 850.0,
+    "compr_max": 1150.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "OSTERIA DEL CURATO-LUCREZIA ROMANA (VIA DELLE CAPANNELLE)"
+  },
+  "E51": {
+    "compr_min": 950.0,
+    "compr_max": 1350.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "CASAL BOCCONE BUFALOTTA (VIA PAOLO MONELLI)"
+  },
+  "E73": {
+    "compr_min": 750.0,
+    "compr_max": 1100.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MASSIMINA-CASAL LUMBROSO (VIA MASSIMILLA)"
+  },
+  "E8": {
+    "compr_min": 750.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "MONTESPACCATO (VIA CORNELIA)"
+  },
+  "E81": {
+    "compr_min": 750.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "VITINIA (VIA SARSINA)"
+  },
+  "E83": {
+    "compr_min": 750.0,
+    "compr_max": 1000.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "ACILIA NUOVA-MADONNETTA (VIA BEPI ROMAGNONI)"
+  },
+  "E84": {
+    "compr_min": 850.0,
+    "compr_max": 1150.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "AXA (VIA ARISTOFANE)"
+  },
+  "E94": {
+    "compr_min": 900.0,
+    "compr_max": 1250.0,
+    "descrizioni": [
+      "Posti auto coperti"
+    ],
+    "fascia": "E",
+    "comune_amm": "H501",
+    "periodo": 20182,
+    "nome_zona": "INFERNETTO (VIA ERMANNO WOLF FERRARI)"
+  }
+}
