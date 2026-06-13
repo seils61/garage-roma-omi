@@ -26,7 +26,8 @@ import os
 import re
 from email.header import decode_header
 
-IMAP_SERVER = "outlook.office365.com"
+IMAP_SERVER = "IMAP_SERVER = "imap.gmail.com"
+"
 IMAP_PORT = 993
 
 OUTPUT_FILE = "annunci_garage.json"
