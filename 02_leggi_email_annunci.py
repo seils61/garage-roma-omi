@@ -26,7 +26,7 @@ import os
 import re
 from email.header import decode_header
 
-IMAP_SERVER = "IMAP_SERVER = "imap.gmail.com"
+IMAP_SERVER = "imap.gmail.com"
 "
 IMAP_PORT = 993
 
