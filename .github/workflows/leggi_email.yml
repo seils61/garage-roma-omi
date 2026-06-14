@@ -23,10 +23,13 @@ jobs:
           OUTLOOK_APP_PASSWORD: ${{ secrets.OUTLOOK_APP_PASSWORD }}
         run: python 02_leggi_email_annunci.py
 
+      - name: Esegui confronto OMI
+        run: python 03_confronto_omi.py
+
       - name: Commit e push risultati
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add annunci_garage.json
-          git diff --staged --quiet || git commit -m "Aggiornamento automatico annunci garage"
+          git add annunci_garage.json report_occasioni.json
+          git diff --staged --quiet || git commit -m "Aggiornamento annunci e report occasioni"
           git push
