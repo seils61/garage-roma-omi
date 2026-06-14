@@ -152,61 +152,63 @@ def arricchisci_da_pagina_immobiliare(url):
 def parse_email_immobiliare(html_body, data_email):
     annunci = []
 
-    tracking_links = re.findall(
-        r'href="(https://clicks\.immobiliare\.it/f/a/[^"]+)"',
-        html_body
-    )
-    tracking_unici = list(dict.fromkeys(tracking_links))
+    # Estrai testo pulito dall'email
+    testo = pulisci_html(html_body)
 
-    if not tracking_unici:
-        return annunci
+    # Prezzo e m² dal testo email (funzionava già)
+    prezzo = estrai_prezzo(testo)
+    mq = estrai_mq(testo)
 
-    # Il secondo link di tracking di solito punta all'annuncio reale
-    link_tracking = tracking_unici[1] if len(tracking_unici) > 1 else tracking_unici[0]
-    print(f"    Seguo redirect Immobiliare.it...")
-    url_reale = segui_redirect(link_tracking)
-    print(f"    URL reale: {url_reale}")
-    link_pulito = re.sub(r'\?.*', '', url_reale)
-
-    # Scarica la pagina dell'annuncio
-    html_pagina, _ = scarica_pagina(url_reale)
-    if not html_pagina:
-        return annunci
-
-    testo_pagina = pulisci_html(html_pagina)
-
-    # Prezzo e m² dalla pagina
-    prezzo = estrai_prezzo(testo_pagina)
-    mq = estrai_mq(testo_pagina)
-
-    # Titolo dalla pagina (<title> o <h1>)
+    # Titolo: cerca "Garage..." o "Box..." nel testo
     titolo = ""
-    titolo_match = re.search(r'<title>([^<]+)</title>', html_pagina, re.IGNORECASE)
+    titolo_match = re.search(
+        r'((?:Garage|Box|Posto auto)[^€\n]{5,100})',
+        testo, re.IGNORECASE
+    )
     if titolo_match:
-        titolo = titolo_match.group(1).strip()
-        # Rimuovi suffissi tipo " - Immobiliare.it"
-        titolo = re.sub(r'\s*[-|]\s*[Ii]mmobiliare.*$', '', titolo).strip()
-    if not titolo:
-        h1_match = re.search(r'<h1[^>]*>([^<]+)</h1>', html_pagina, re.IGNORECASE)
-        if h1_match:
-            titolo = h1_match.group(1).strip()
+        titolo = " ".join(titolo_match.group(1).split()).strip()
 
-    # Zona dal titolo
+    # Zona: cerca il quartiere nel titolo estratto
     zona = estrai_zona_da_titolo(titolo)
 
-    print(f"    Trovato: '{titolo}' | {prezzo} € | {mq} m² | {zona}")
+    # Se zona vuota, cerca pattern "Quartiere, Roma" nel testo
+    if not zona:
+        zona_match = re.search(
+            r'([A-ZÀÈÌÒÙ][a-zàèìòù]+(?:\s+[A-ZÀÈÌÒÙ][a-zàèìòù]+)*),\s*Roma',
+            testo
+        )
+        if zona_match:
+            zona = zona_match.group(1).strip()
 
-    if link_pulito:
+    # Link: prendi il primo link di tracking come riferimento
+    # (non seguiamo il redirect — usiamo direttamente immobiliare.it)
+    link = ""
+    # Cerca ID annuncio nel testo o nei link
+    id_match = re.search(r'/annunci/(\d+)', html_body)
+    if id_match:
+        link = f"https://www.immobiliare.it/annunci/{id_match.group(1)}/"
+    else:
+        # Fallback: primo link di tracking
+        tracking = re.findall(
+            r'href="(https://clicks\.immobiliare\.it/f/a/[^"]+)"',
+            html_body
+        )
+        link = tracking[1] if len(tracking) > 1 else (tracking[0] if tracking else "")
+
+    print(f"    Immobiliare: '{titolo}' | {prezzo} € | {mq} m² | {zona}")
+
+    if prezzo and link:
         annunci.append({
             "titolo": titolo,
             "prezzo": prezzo,
             "superficie_mq": mq,
             "zona": zona,
-            "link": link_pulito,
+            "link": link,
             "data_email": data_email,
         })
 
     return annunci
+
 
 
 
