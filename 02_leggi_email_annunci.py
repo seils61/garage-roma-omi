@@ -1,15 +1,5 @@
 """
 Script 2: Lettura notifiche annunci garage da Gmail (IMAP)
-
-Si collega alla casella Gmail tramite IMAP, legge le email di notifica
-ricevute da Immobiliare.it e Idealista per garage/box in vendita a Roma,
-estrae i dati principali di ogni annuncio e li salva in annunci_garage.json.
-
-Credenziali da GitHub Secrets:
-  - OUTLOOK_EMAIL        (contiene l'indirizzo Gmail)
-  - OUTLOOK_APP_PASSWORD (contiene la password per l'app Gmail)
-
-Output: annunci_garage.json
 """
 
 import email
@@ -18,6 +8,7 @@ import json
 import os
 import re
 import urllib.request
+import urllib.error
 from email.header import decode_header
 from html.parser import HTMLParser
 
@@ -125,102 +116,102 @@ def estrai_zona_da_titolo(titolo):
 
 
 def scarica_pagina(url):
-    """Scarica il contenuto HTML di una pagina web."""
     try:
         req = urllib.request.Request(url, headers=HEADERS_HTTP)
         with urllib.request.urlopen(req, timeout=10) as response:
             charset = response.headers.get_content_charset() or "utf-8"
-            return response.read().decode(charset, errors="ignore")
+            return response.read().decode(charset, errors="ignore"), response.geturl()
     except Exception as e:
         print(f"    Errore scaricando {url}: {e}")
-        return ""
+        return "", url
 
 
-def arricchisci_da_pagina(annuncio):
-    """
-    Visita la pagina dell'annuncio e recupera prezzo e m²
-    se non già presenti.
-    """
-    if annuncio.get("prezzo") and annuncio.get("superficie_mq"):
-        return annuncio
+def segui_redirect(url):
+    """Segue un link di tracking e restituisce l'URL finale reale."""
+    try:
+        req = urllib.request.Request(url, headers=HEADERS_HTTP)
+        with urllib.request.urlopen(req, timeout=10) as response:
+            return response.geturl()
+    except Exception as e:
+        print(f"    Errore seguendo redirect {url}: {e}")
+        return url
 
-    url = annuncio.get("link", "")
-    if not url:
-        return annuncio
 
-    print(f"    Recupero dati da pagina: {url}")
-    html = scarica_pagina(url)
+def arricchisci_da_pagina_immobiliare(url):
+    """Scarica la pagina annuncio di Immobiliare.it ed estrae prezzo e m²."""
+    html, url_finale = scarica_pagina(url)
     if not html:
-        return annuncio
+        return None, None, url_finale
 
     testo = pulisci_html(html)
-
-    if not annuncio.get("prezzo"):
-        prezzo = estrai_prezzo(testo)
-        if prezzo:
-            annuncio["prezzo"] = prezzo
-            print(f"    Prezzo trovato: {prezzo} €")
-
-    if not annuncio.get("superficie_mq"):
-        mq = estrai_mq(testo)
-        if mq:
-            annuncio["superficie_mq"] = mq
-            print(f"    Superficie trovata: {mq} m²")
-
-    return annuncio
+    prezzo = estrai_prezzo(testo)
+    mq = estrai_mq(testo)
+    return prezzo, mq, url_finale
 
 
 def parse_email_immobiliare(html_body, data_email):
     annunci = []
 
-    # Debug: stampa tutti i link trovati nell'email
-    tutti_links = re.findall(r'href="(https?://[^"]+)"', html_body)
-    print(f"    Debug Immobiliare - link trovati nell'email:")
-    for l in tutti_links[:10]:
-        print(f"      {l}")
-
-    links = re.findall(
-        r'href="(https://www\.immobiliare\.it/annunci/\d+[^"]*)"',
+    # Immobiliare.it usa link di tracking clicks.immobiliare.it
+    # Prendiamo il primo link di tracking che punta all'annuncio
+    tracking_links = re.findall(
+        r'href="(https://clicks\.immobiliare\.it/f/a/[^"]+)"',
         html_body
     )
-    links_unici = list(dict.fromkeys(links))
+    tracking_unici = list(dict.fromkeys(tracking_links))
 
-    titoli = re.findall(
-        r'href="https://www\.immobiliare\.it/annunci/\d+[^"]*"[^>]*>\s*([^<]+)',
-        html_body
-    )
-
+    # Il testo visibile dell'email contiene titolo, zona, prezzo, m²
     testo = pulisci_html(html_body)
-    prezzo = estrai_prezzo(testo)
-    mq = estrai_mq(testo)
+    prezzo_email = estrai_prezzo(testo)
+    mq_email = estrai_mq(testo)
 
+    # Zona: cerca nel testo pattern tipico "Quartiere - Zona, Roma"
     zona = ""
     zona_match = re.search(
-        r'<[^>]*class="[^"]*zona[^"]*"[^>]*>\s*([^<]+)',
-        html_body, re.IGNORECASE
+        r'\n([A-ZÀÈÌÒÙ][^\n]{3,50})\n.*?(?:€|\d+\s*m)', testo
     )
     if zona_match:
         zona = zona_match.group(1).strip()
 
-    titolo = titoli[0].strip() if titoli else ""
-    if not zona and titolo:
-        zona = estrai_zona_da_titolo(titolo)
+    # Titolo: cerca pattern "Garage..." nel testo
+    titolo = ""
+    titolo_match = re.search(
+        r'((?:Garage|Box|Posto auto)[^\n]{5,100})', testo, re.IGNORECASE
+    )
+    if titolo_match:
+        titolo = titolo_match.group(1).strip()
 
-    link = links_unici[0] if links_unici else ""
-    link_pulito = re.sub(r'\?.*', '', link) if link else ""
+    # Usa il primo link di tracking — seguiamo il redirect per ottenere
+    # il link reale all'annuncio e i dati dalla pagina
+    if tracking_unici:
+        link_tracking = tracking_unici[1] if len(tracking_unici) > 1 else tracking_unici[0]
+        print(f"    Seguo redirect Immobiliare.it...")
+        url_reale = segui_redirect(link_tracking)
+        print(f"    URL reale: {url_reale}")
 
-    if link_pulito:
-        annunci.append({
-            "titolo": titolo,
-            "prezzo": prezzo,
-            "superficie_mq": mq,
-            "zona": zona,
-            "link": link_pulito,
-            "data_email": data_email,
-        })
+        # Pulisci l'URL dai parametri
+        link_pulito = re.sub(r'\?.*', '', url_reale)
+
+        # Recupera prezzo e m² dalla pagina se non trovati nell'email
+        prezzo = prezzo_email
+        mq = mq_email
+        if not prezzo or not mq:
+            print(f"    Recupero dati dalla pagina annuncio...")
+            prezzo_pag, mq_pag, _ = arricchisci_da_pagina_immobiliare(url_reale)
+            prezzo = prezzo or prezzo_pag
+            mq = mq or mq_pag
+
+        if link_pulito:
+            annunci.append({
+                "titolo": titolo,
+                "prezzo": prezzo,
+                "superficie_mq": mq,
+                "zona": zona,
+                "link": link_pulito,
+                "data_email": data_email,
+            })
 
     return annunci
-
 
 
 def parse_email_idealista(html_body, data_email):
@@ -315,18 +306,12 @@ def leggi_notifiche():
         parser = PARSER_PER_PORTALE[portale]
         annunci = parser(html_body, data_email)
 
-        # Arricchisci ogni annuncio con dati dalla pagina web
-        annunci_arricchiti = []
         for a in annunci:
-            a = arricchisci_da_pagina(a)
-            annunci_arricchiti.append(a)
-
-        for a in annunci_arricchiti:
             a["portale"] = portale
             a["oggetto_email"] = oggetto
             tutti_annunci.append(a)
 
-        print(f"  - [{portale}] '{oggetto}': {len(annunci_arricchiti)} annunci estratti")
+        print(f"  - [{portale}] '{oggetto}': {len(annunci)} annunci estratti")
         imap.store(msg_id, '+FLAGS', '\\Seen')
 
     imap.logout()
@@ -357,3 +342,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
