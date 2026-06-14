@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "titolo": "Garage - Box via Filippo Bernardini 3a, Gregorio VII - Piccolomini, Roma﻿",
+    "prezzo": 25000,
+    "superficie_mq": 15,
+    "zona": "Gregorio VII - Piccolomini",
+    "link": "https://clicks.immobiliare.it/f/a/i_1x9ZKBw6QTWNufwY46gw~~/AAAHahA~/Bvpi_iTbYUXP4psFoKWBrFLejAQsWpdn1p7NMcZ1zg0zYmE3pEiZ0umXgTeh2EwTeXSLcTICLq4BFs1d1SWkDgApjwmqR5qVQhLAZ6rgKvnbNz0QTFw0kFSYoIVPxIi1sGBpErvWRlYrQSMz2eLzFswN4QGxDFj_3FEX6vLeziWaqHMJ6_TFcCy2b5tyayNK-_8HPGDvy_v7HDSpnCqTaC-KMBlkmnJ0sQ0lUwUZpAFEqdn79WMJ_io9MpySA3fD",
+    "data_email": "Sun, 14 Jun 2026 05:02:31 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 1 nuovo annuncio per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Alessandro Valignano, 56, Garbatella, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Garbatella",
+    "link": "https://www.idealista.it/immobile/36012645/",
+    "data_email": "Sun, 14 Jun 2026 08:44:58 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via del Trullo, 432, Trullo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Trullo",
+    "link": "https://www.idealista.it/immobile/36011979/",
+    "data_email": "Sun, 14 Jun 2026 08:44:58 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Festo Avieno, 224, Balduina Alta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Balduina Alta",
+    "link": "https://www.idealista.it/immobile/34902046/",
+    "data_email": "Sun, 14 Jun 2026 08:44:58 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Roberto Ago, 36, Aurelia - Val Cannuta - Ergifee, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Aurelia - Val Cannuta - Ergifee",
+    "link": "https://www.idealista.it/immobile/36012050/",
+    "data_email": "Sun, 14 Jun 2026 17:10:16 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  }
+]
