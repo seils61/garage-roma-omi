@@ -152,66 +152,62 @@ def arricchisci_da_pagina_immobiliare(url):
 def parse_email_immobiliare(html_body, data_email):
     annunci = []
 
-    # Immobiliare.it usa link di tracking clicks.immobiliare.it
-    # Prendiamo il primo link di tracking che punta all'annuncio
     tracking_links = re.findall(
         r'href="(https://clicks\.immobiliare\.it/f/a/[^"]+)"',
         html_body
     )
     tracking_unici = list(dict.fromkeys(tracking_links))
 
-    # Il testo visibile dell'email contiene titolo, zona, prezzo, m²
-    testo = pulisci_html(html_body)
-    prezzo_email = estrai_prezzo(testo)
-    mq_email = estrai_mq(testo)
+    if not tracking_unici:
+        return annunci
 
-    # Zona: cerca nel testo pattern tipico "Quartiere - Zona, Roma"
-    zona = ""
-    zona_match = re.search(
-        r'\n([A-ZÀÈÌÒÙ][^\n]{3,50})\n.*?(?:€|\d+\s*m)', testo
-    )
-    if zona_match:
-        zona = zona_match.group(1).strip()
+    # Il secondo link di tracking di solito punta all'annuncio reale
+    link_tracking = tracking_unici[1] if len(tracking_unici) > 1 else tracking_unici[0]
+    print(f"    Seguo redirect Immobiliare.it...")
+    url_reale = segui_redirect(link_tracking)
+    print(f"    URL reale: {url_reale}")
+    link_pulito = re.sub(r'\?.*', '', url_reale)
 
-    # Titolo: cerca pattern "Garage..." nel testo
+    # Scarica la pagina dell'annuncio
+    html_pagina, _ = scarica_pagina(url_reale)
+    if not html_pagina:
+        return annunci
+
+    testo_pagina = pulisci_html(html_pagina)
+
+    # Prezzo e m² dalla pagina
+    prezzo = estrai_prezzo(testo_pagina)
+    mq = estrai_mq(testo_pagina)
+
+    # Titolo dalla pagina (<title> o <h1>)
     titolo = ""
-    titolo_match = re.search(
-        r'((?:Garage|Box|Posto auto)[^\n]{5,100})', testo, re.IGNORECASE
-    )
+    titolo_match = re.search(r'<title>([^<]+)</title>', html_pagina, re.IGNORECASE)
     if titolo_match:
         titolo = titolo_match.group(1).strip()
+        # Rimuovi suffissi tipo " - Immobiliare.it"
+        titolo = re.sub(r'\s*[-|]\s*[Ii]mmobiliare.*$', '', titolo).strip()
+    if not titolo:
+        h1_match = re.search(r'<h1[^>]*>([^<]+)</h1>', html_pagina, re.IGNORECASE)
+        if h1_match:
+            titolo = h1_match.group(1).strip()
 
-    # Usa il primo link di tracking — seguiamo il redirect per ottenere
-    # il link reale all'annuncio e i dati dalla pagina
-    if tracking_unici:
-        link_tracking = tracking_unici[1] if len(tracking_unici) > 1 else tracking_unici[0]
-        print(f"    Seguo redirect Immobiliare.it...")
-        url_reale = segui_redirect(link_tracking)
-        print(f"    URL reale: {url_reale}")
+    # Zona dal titolo
+    zona = estrai_zona_da_titolo(titolo)
 
-        # Pulisci l'URL dai parametri
-        link_pulito = re.sub(r'\?.*', '', url_reale)
+    print(f"    Trovato: '{titolo}' | {prezzo} € | {mq} m² | {zona}")
 
-        # Recupera prezzo e m² dalla pagina se non trovati nell'email
-        prezzo = prezzo_email
-        mq = mq_email
-        if not prezzo or not mq:
-            print(f"    Recupero dati dalla pagina annuncio...")
-            prezzo_pag, mq_pag, _ = arricchisci_da_pagina_immobiliare(url_reale)
-            prezzo = prezzo or prezzo_pag
-            mq = mq or mq_pag
-
-        if link_pulito:
-            annunci.append({
-                "titolo": titolo,
-                "prezzo": prezzo,
-                "superficie_mq": mq,
-                "zona": zona,
-                "link": link_pulito,
-                "data_email": data_email,
-            })
+    if link_pulito:
+        annunci.append({
+            "titolo": titolo,
+            "prezzo": prezzo,
+            "superficie_mq": mq,
+            "zona": zona,
+            "link": link_pulito,
+            "data_email": data_email,
+        })
 
     return annunci
+
 
 
 def parse_email_idealista(html_body, data_email):
