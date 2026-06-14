@@ -173,6 +173,12 @@ def arricchisci_da_pagina(annuncio):
 def parse_email_immobiliare(html_body, data_email):
     annunci = []
 
+    # Debug: stampa tutti i link trovati nell'email
+    tutti_links = re.findall(r'href="(https?://[^"]+)"', html_body)
+    print(f"    Debug Immobiliare - link trovati nell'email:")
+    for l in tutti_links[:10]:
+        print(f"      {l}")
+
     links = re.findall(
         r'href="(https://www\.immobiliare\.it/annunci/\d+[^"]*)"',
         html_body
@@ -214,6 +220,7 @@ def parse_email_immobiliare(html_body, data_email):
         })
 
     return annunci
+
 
 
 def parse_email_idealista(html_body, data_email):
