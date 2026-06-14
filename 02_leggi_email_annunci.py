@@ -71,7 +71,6 @@ def estrai_corpo_html(msg):
 
 
 def pulisci_html(html):
-    """Rimuove i tag HTML e restituisce il testo pulito."""
     class MLStripper(HTMLParser):
         def __init__(self):
             super().__init__()
@@ -81,26 +80,30 @@ def pulisci_html(html):
             self.fed.append(d)
         def get_data(self):
             return " ".join(self.fed)
-
     s = MLStripper()
     s.feed(html)
     return s.get_data()
 
 
 def estrai_prezzo(testo):
-    """Estrae il primo prezzo in euro trovato nel testo (es. '25.000 €' -> 25000)."""
-    match = re.search(r'(\d{1,3}(?:[.,]\d{3})*)\s*[€Ee]', testo)
-    if match:
-        prezzo_str = match.group(1).replace(".", "").replace(",", "")
-        try:
-            return int(prezzo_str)
-        except ValueError:
-            return None
+    """Estrae il primo prezzo in euro trovato nel testo."""
+    patterns = [
+        r'(\d{1,3}(?:\.\d{3})+)\s*€',
+        r'€\s*(\d{1,3}(?:\.\d{3})+)',
+        r'(\d{1,3}(?:\.\d{3})+)\s*[Ee]uro',
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, testo)
+        if match:
+            prezzo_str = match.group(1).replace(".", "")
+            try:
+                return int(prezzo_str)
+            except ValueError:
+                continue
     return None
 
 
 def estrai_mq(testo):
-    """Estrae i m² dal testo (es. '15 m²' -> 15)."""
     match = re.search(r'(\d+)\s*m[²2]', testo)
     if match:
         try:
@@ -111,47 +114,35 @@ def estrai_mq(testo):
 
 
 def estrai_zona_da_titolo(titolo):
-    """
-    Estrae la zona/quartiere dal titolo dell'annuncio.
-    Formato tipico: 'Garage in Via X, QUARTIERE, Roma'
-    """
     match = re.search(r',\s*([^,]+),\s*Roma', titolo, re.IGNORECASE)
     if match:
         return match.group(1).strip()
     return ""
 
 
-# -----------------------------------------------------------------------
-# PARSER IMMOBILIARE.IT
-# Formato email: un annuncio per email con titolo, zona, prezzo, m²
-# -----------------------------------------------------------------------
-
 def parse_email_immobiliare(html_body, data_email):
     annunci = []
 
-    # Estrai tutti i link agli annunci
     links = re.findall(
         r'href="(https://www\.immobiliare\.it/annunci/\d+[^"]*)"',
         html_body
     )
-    # Rimuovi duplicati mantenendo l'ordine
     links_unici = list(dict.fromkeys(links))
 
-    # Estrai titoli (testo dei link agli annunci)
     titoli = re.findall(
         r'href="https://www\.immobiliare\.it/annunci/\d+[^"]*"[^>]*>\s*([^<]+)',
         html_body
     )
 
-    # Testo pulito per estrarre prezzo e m²
     testo = pulisci_html(html_body)
-
     prezzo = estrai_prezzo(testo)
     mq = estrai_mq(testo)
 
-    # Zona: cerca pattern "zona" nell'HTML oppure estrai dal titolo
     zona = ""
-    zona_match = re.search(r'<[^>]*class="[^"]*zona[^"]*"[^>]*>\s*([^<]+)', html_body, re.IGNORECASE)
+    zona_match = re.search(
+        r'<[^>]*class="[^"]*zona[^"]*"[^>]*>\s*([^<]+)',
+        html_body, re.IGNORECASE
+    )
     if zona_match:
         zona = zona_match.group(1).strip()
 
@@ -160,70 +151,73 @@ def parse_email_immobiliare(html_body, data_email):
         zona = estrai_zona_da_titolo(titolo)
 
     link = links_unici[0] if links_unici else ""
+    # Link pulito senza parametri UTM
+    link_pulito = re.sub(r'\?.*', '', link) if link else ""
 
-    if link:
+    if link_pulito:
         annunci.append({
             "titolo": titolo,
             "prezzo": prezzo,
             "superficie_mq": mq,
             "zona": zona,
-            "link": link,
+            "link": link_pulito,
             "data_email": data_email,
         })
 
     return annunci
 
 
-# -----------------------------------------------------------------------
-# PARSER IDEALISTA
-# Formato email: più annunci per email, ognuno con titolo, prezzo, descrizione
-# I m² non sempre presenti nell'email — estratti dal titolo se possibile
-# -----------------------------------------------------------------------
-
 def parse_email_idealista(html_body, data_email):
     annunci = []
+    id_visti = set()
 
-    # Estrai blocchi annuncio: ogni annuncio ha un link idealista.it/immobile/
-    links = re.findall(
-        r'href="(https://www\.idealista\.it/immobile/\d+[^"]*)"',
-        html_body
-    )
-    links_unici = list(dict.fromkeys(links))
+    # Trova tutti gli ID immobile nell'HTML
+    ids_immobile = re.findall(r'/immobile/(\d+)/', html_body)
+    ids_unici = list(dict.fromkeys(ids_immobile))
 
-    # Per ogni link, cerca il titolo e prezzo nelle vicinanze nell'HTML
-    # Strategia: spezziamo l'HTML in blocchi attorno ai link
-    blocchi = re.split(r'https://www\.idealista\.it/immobile/\d+', html_body)
+    for id_immobile in ids_unici:
+        if id_immobile in id_visti:
+            continue
+        id_visti.add(id_immobile)
 
-    for i, link in enumerate(links_unici):
-        # Prendi il testo del blocco precedente + successivo per estrarre i dati
-        blocco = ""
-        if i < len(blocchi) - 1:
-            blocco = blocchi[i] + blocchi[i + 1]
-        elif i < len(blocchi):
-            blocco = blocchi[i]
-
+        # Blocco HTML attorno all'annuncio
+        pos = html_body.find(f'/immobile/{id_immobile}/')
+        if pos == -1:
+            continue
+        blocco = html_body[max(0, pos-200):pos+1500]
         testo_blocco = pulisci_html(blocco)
 
-        # Estrai titolo dal link stesso o dal testo vicino
+        # Titolo: cerca il testo del link con il nome della via
         titolo_match = re.search(
-            r'href="' + re.escape(link) + r'"[^>]*>\s*([^<]{10,100})',
+            r'href="https://www\.idealista\.it/immobile/' + id_immobile +
+            r'/[^"]*utm_link=propertyNewLink[^"]*"[^>]*>\s*([^<]{10,150})',
             html_body
         )
         titolo = titolo_match.group(1).strip() if titolo_match else ""
+
+        # Fallback titolo
+        if not titolo:
+            titolo_match2 = re.search(
+                r'href="https://www\.idealista\.it/immobile/' + id_immobile +
+                r'/[^"]*"[^>]*>\s*([A-Z][^<]{10,150})',
+                html_body
+            )
+            titolo = titolo_match2.group(1).strip() if titolo_match2 else ""
 
         prezzo = estrai_prezzo(testo_blocco)
         mq = estrai_mq(testo_blocco) or estrai_mq(titolo)
         zona = estrai_zona_da_titolo(titolo)
 
-        if link:
-            annunci.append({
-                "titolo": titolo,
-                "prezzo": prezzo,
-                "superficie_mq": mq,
-                "zona": zona,
-                "link": link,
-                "data_email": data_email,
-            })
+        link_pulito = f"https://www.idealista.it/immobile/{id_immobile}/"
+
+        annunci.append({
+            "titolo": titolo,
+            "prezzo": prezzo,
+            "superficie_mq": mq,
+            "zona": zona,
+            "link": link_pulito,
+            "data_email": data_email,
+        })
 
     return annunci
 
@@ -233,10 +227,6 @@ PARSER_PER_PORTALE = {
     "idealista": parse_email_idealista,
 }
 
-
-# -----------------------------------------------------------------------
-# LOGICA PRINCIPALE
-# -----------------------------------------------------------------------
 
 def identifica_portale(mittente):
     mittente_lower = mittente.lower()
@@ -250,7 +240,6 @@ def leggi_notifiche():
     imap = connetti_imap()
     imap.select("INBOX")
 
-    # Legge tutte le email non lette
     status, messaggi = imap.search(None, "UNSEEN")
     ids = messaggi[0].split()
     print(f"Trovate {len(ids)} email non lette")
@@ -281,8 +270,6 @@ def leggi_notifiche():
             tutti_annunci.append(a)
 
         print(f"  - [{portale}] '{oggetto}': {len(annunci)} annunci estratti")
-
-        # Segna come letta dopo averla processata con successo
         imap.store(msg_id, '+FLAGS', '\\Seen')
 
     imap.logout()
