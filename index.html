@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Garage Roma — Occasioni OMI</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, 'Inter', sans-serif; background: #F4F6F9; }
+    a { cursor: pointer; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+    const REPORT_URL = "https://raw.githubusercontent.com/seils61/garage-roma-omi/main/report_occasioni.json";
+
+    const VALUTAZIONE = {
+      sotto_mercato: { label: "Occasione", color: "#00A878", bg: "#E8F8F3", icon: "⭐" },
+      in_linea: { label: "In linea", color: "#F5A623", bg: "#FEF6E7", icon: "✓" },
+      sopra_mercato: { label: "Sopra mercato", color: "#C0392B", bg: "#FDECEA", icon: "↑" },
+      prezzo_mq_mancante: { label: "Da verificare", color: "#6B7A8D", bg: "#F0F2F5", icon: "?" },
+      zona_non_mappata: { label: "Zona n/d", color: "#6B7A8D", bg: "#F0F2F5", icon: "?" },
+      dati_insufficienti: { label: "Dati n/d", color: "#6B7A8D", bg: "#F0F2F5", icon: "?" },
+    };
+
+    function BarraOMI({ prezzoMq, omiMin, omiMax }) {
+      if (!prezzoMq || !omiMin || !omiMax) return null;
+      const minVis = Math.min(prezzoMq, omiMin) * 0.85;
+      const maxVis = Math.max(prezzoMq, omiMax) * 1.10;
+      const range = maxVis - minVis;
+      const pctMin = ((omiMin - minVis) / range) * 100;
+      const pctMax = ((omiMax - minVis) / range) * 100;
+      const pctPrezzo = ((prezzoMq - minVis) / range) * 100;
+      const colore = prezzoMq < omiMin ? "#00A878" : prezzoMq <= omiMax ? "#F5A623" : "#C0392B";
+      return (
+        <div style={{marginTop:10}}>
+          <div style={{position:"relative",height:8,background:"#E8ECF0",borderRadius:4,margin:"4px 0"}}>
+            <div style={{position:"absolute",left:`${pctMin}%`,width:`${pctMax-pctMin}%`,height:"100%",background:"rgba(15,27,45,0.15)",borderRadius:4}} />
+            <div style={{position:"absolute",left:`${pctPrezzo}%`,transform:"translateX(-50%)",width:14,height:14,top:-3,background:colore,borderRadius:"50%",border:"2px solid white",boxShadow:"0 1px 4px rgba(0,0,0,0.2)"}} />
+          </div>
+          <div style={{display:"flex",justifyContent:"space-between",fontSize:11,color:"#6B7A8D",marginTop:2}}>
+            <span>OMI min: {omiMin.toLocaleString("it-IT")} €/m²</span>
+            <span style={{color:colore,fontWeight:600}}>{prezzoMq.toLocaleString("it-IT")} €/m²</span>
+            <span>OMI max: {omiMax.toLocaleString("it-IT")} €/m²</span>
+          </div>
+        </div>
+      );
+    }
+
+    function Card({ a }) {
+      const val = VALUTAZIONE[a.valutazione] || VALUTAZIONE.dati_insufficienti;
+      const data = a.data_email ? new Date(a.data_email).toLocaleDateString("it-IT",{day:"2-digit",month:"short",year:"numeric"}) : "";
+      return (
+        <div style={{background:"white",borderRadius:12,padding:"18px 20px",marginBottom:12,border:`1px solid ${val.color}33`,borderLeft:`4px solid ${val.color}`,boxShadow:"0 1px 4px rgba(0,0,0,0.06)"}}>
+          <div style={{display:"flex",justifyContent:"space-between",alignItems:"flex-start",gap:12}}>
+            <div style={{flex:1}}>
+              <div style={{fontSize:12,color:"#6B7A8D",marginBottom:3,textTransform:"uppercase",letterSpacing:"0.05em"}}>{a.portale} · {data}</div>
+              <div style={{fontSize:15,fontWeight:600,color:"#0F1B2D",lineHeight:1.3}}>{a.titolo || "Titolo non disponibile"}</div>
+              {a.zona_annuncio && (
+                <div style={{fontSize:13,color:"#6B7A8D",marginTop:4}}>
+                  📍 {a.zona_annuncio}
+                  {a.zona_omi && <span style={{color:"#B0BAC6"}}> → {a.zona_omi}</span>}
+                </div>
+              )}
+            </div>
+            <div style={{background:val.bg,color:val.color,borderRadius:8,padding:"4px 12px",fontSize:13,fontWeight:600,whiteSpace:"nowrap",flexShrink:0}}>
+              {val.icon} {val.label}
+              {a.sconto_pct > 0 && <span> · -{a.sconto_pct}%</span>}
+            </div>
+          </div>
+          <div style={{display:"flex",gap:24,marginTop:14,flexWrap:"wrap"}}>
+            {a.prezzo && <div><div style={{fontSize:11,color:"#6B7A8D",textTransform:"uppercase"}}>Prezzo</div><div style={{fontSize:20,fontWeight:700,color:"#0F1B2D"}}>{a.prezzo.toLocaleString("it-IT")} €</div></div>}
+            {a.superficie_mq && <div><div style={{fontSize:11,color:"#6B7A8D",textTransform:"uppercase"}}>Superficie</div><div style={{fontSize:20,fontWeight:700,color:"#0F1B2D"}}>{a.superficie_mq} m²</div></div>}
+            {a.prezzo_mq && <div><div style={{fontSize:11,color:"#6B7A8D",textTransform:"uppercase"}}>Prezzo/m²</div><div style={{fontSize:20,fontWeight:700,color:"#0F1B2D"}}>{a.prezzo_mq.toLocaleString("it-IT")} €</div></div>}
+            {!a.prezzo && <div style={{color:"#6B7A8D",fontSize:13,alignSelf:"center"}}>Prezzo non disponibile — verifica sul portale</div>}
+          </div>
+          <BarraOMI prezzoMq={a.prezzo_mq} omiMin={a.omi_min_mq} omiMax={a.omi_max_mq} />
+          <div style={{marginTop:14}}>
+            <a href={a.link} target="_blank" rel="noopener noreferrer" style={{display:"inline-block",background:"#0F1B2D",color:"white",borderRadius:7,padding:"7px 16px",fontSize:13,fontWeight:500,textDecoration:"none"}}>
+              Vedi annuncio →
+            </a>
+          </div>
+        </div>
+      );
+    }
+
+    function App() {
+      const [annunci, setAnnunci] = React.useState([]);
+      const [loading, setLoading] = React.useState(true);
+      const [errore, setErrore] = React.useState(null);
+      const [filtro, setFiltro] = React.useState("tutti");
+      const [ord, setOrd] = React.useState("sconto");
+
+      React.useEffect(() => {
+        fetch(REPORT_URL)
+          .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+          .then(d => { setAnnunci(d); setLoading(false); })
+          .catch(e => { setErrore(e.message); setLoading(false); });
+      }, []);
+
+      const stats = {
+        totale: annunci.length,
+        occasioni: annunci.filter(a => a.valutazione === "sotto_mercato").length,
+        in_linea: annunci.filter(a => a.valutazione === "in_linea").length,
+        sopra: annunci.filter(a => a.valutazione === "sopra_mercato").length,
+        da_verificare: annunci.filter(a => ["prezzo_mq_mancante","zona_non_mappata","dati_insufficienti"].includes(a.valutazione)).length,
+      };
+
+      const lista = annunci
+        .filter(a => {
+          if (filtro === "tutti") return true;
+          if (filtro === "occasioni") return a.valutazione === "sotto_mercato";
+          if (filtro === "in_linea") return a.valutazione === "in_linea";
+          if (filtro === "sopra") return a.valutazione === "sopra_mercato";
+          if (filtro === "da_verificare") return ["prezzo_mq_mancante","zona_non_mappata","dati_insufficienti"].includes(a.valutazione);
+          return true;
+        })
+        .sort((a, b) => {
+          if (ord === "sconto") return (b.sconto_pct ?? -999) - (a.sconto_pct ?? -999);
+          if (ord === "prezzo") return (a.prezzo ?? 999999999) - (b.prezzo ?? 999999999);
+          if (ord === "data") return new Date(b.data_email) - new Date(a.data_email);
+          return 0;
+        });
+
+      const btn = (id, label, n, col) => (
+        <button onClick={() => setFiltro(id)} style={{background:filtro===id?col:"white",color:filtro===id?"white":"#0F1B2D",border:`1.5px solid ${filtro===id?col:"#E0E5EB"}`,borderRadius:8,padding:"7px 14px",fontSize:13,fontWeight:500,cursor:"pointer",marginBottom:4}}>
+          {label}{n > 0 ? ` (${n})` : ""}
+        </button>
+      );
+
+      return (
+        <div style={{fontFamily:"-apple-system,sans-serif",background:"#F4F6F9",minHeight:"100vh",paddingBottom:40}}>
+          <div style={{background:"#0F1B2D",padding:"28px 20px 24px",color:"white"}}>
+            <div style={{fontSize:11,letterSpacing:"0.15em",textTransform:"uppercase",color:"#6B8CAE",marginBottom:6}}>Osservatorio Mercato Immobiliare · Roma</div>
+            <div style={{fontSize:24,fontWeight:700,letterSpacing:"-0.02em"}}>Garage & Box in vendita</div>
+            <div style={{fontSize:13,color:"#6B8CAE",marginTop:4}}>Confronto automatico con i valori OMI — Agenzia delle Entrate</div>
+            {!loading && !errore && (
+              <div style={{display:"flex",gap:10,marginTop:20,flexWrap:"wrap"}}>
+                {[
+                  {label:"Totale",val:stats.totale,color:"#6B8CAE"},
+                  {label:"Occasioni",val:stats.occasioni,color:"#00A878"},
+                  {label:"In linea",val:stats.in_linea,color:"#F5A623"},
+                  {label:"Sopra",val:stats.sopra,color:"#C0392B"},
+                  {label:"Da verificare",val:stats.da_verificare,color:"#6B8CAE"},
+                ].map(s => (
+                  <div key={s.label} style={{background:"rgba(255,255,255,0.07)",borderRadius:8,padding:"10px 14px"}}>
+                    <div style={{fontSize:20,fontWeight:700,color:s.color}}>{s.val}</div>
+                    <div style={{fontSize:11,color:"#6B8CAE",marginTop:2}}>{s.label}</div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+
+          {!loading && !errore && (
+            <div style={{padding:"14px 20px",background:"white",borderBottom:"1px solid #E0E5EB"}}>
+              <div style={{display:"flex",gap:8,flexWrap:"wrap",alignItems:"center",justifyContent:"space-between"}}>
+                <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
+                  {btn("tutti","Tutti",stats.totale,"#0F1B2D")}
+                  {btn("occasioni","⭐ Occasioni",stats.occasioni,"#00A878")}
+                  {btn("in_linea","✓ In linea",stats.in_linea,"#F5A623")}
+                  {btn("sopra","↑ Sopra mercato",stats.sopra,"#C0392B")}
+                  {btn("da_verificare","? Da verificare",stats.da_verificare,"#6B7A8D")}
+                </div>
+                <select value={ord} onChange={e => setOrd(e.target.value)} style={{border:"1.5px solid #E0E5EB",borderRadius:8,padding:"7px 12px",fontSize:13,color:"#0F1B2D",background:"white"}}>
+                  <option value="sconto">Maggiore sconto</option>
+                  <option value="prezzo">Prezzo crescente</option>
+                  <option value="data">Più recenti</option>
+                </select>
+              </div>
+            </div>
+          )}
+
+          <div style={{padding:"20px"}}>
+            {loading && <div style={{textAlign:"center",color:"#6B7A8D",padding:40}}>Caricamento annunci...</div>}
+            {errore && <div style={{background:"#FDECEA",border:"1px solid #C0392B",borderRadius:10,padding:20,color:"#C0392B"}}><strong>Errore:</strong> {errore}</div>}
+            {!loading && !errore && lista.length === 0 && <div style={{textAlign:"center",color:"#6B7A8D",padding:40}}>Nessun annuncio per questo filtro.</div>}
+            {!loading && !errore && lista.map((a, i) => <Card key={i} a={a} />)}
+          </div>
+
+          <div style={{textAlign:"center",fontSize:12,color:"#B0BAC6",padding:"0 20px"}}>
+            Dati OMI: Agenzia delle Entrate · Annunci: Immobiliare.it, Idealista
+          </div>
+        </div>
+      );
+    }
+
+    ReactDOM.render(<App />, document.getElementById("root"));
+  </script>
+</body>
+</html>
