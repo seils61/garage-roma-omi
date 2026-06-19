@@ -968,5 +968,415 @@
     "data_email": "Thu, 18 Jun 2026 12:56:46 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "garage - box all'asta via Mar Rosso, 61, 00122 Lido di Ostia Italia, Roma﻿",
+    "prezzo": 35000,
+    "superficie_mq": 18,
+    "zona": "00122 Lido di Ostia Italia",
+    "link": "https://clicks.immobiliare.it/f/a/fAzxQoJYohM0xLL80KhKrA~~/AAAHahA~/RAGSMry2Wdclm_jAXGmWzItXB8OkrA9D46AfSGxZEY0dyCTs133vT-YUzOABVcess70dIQeqTbjoI1Djy-ajqzZOfvNXaITXWdvLrqxDciTPIilB4wfJN-tzCeNI0yqjZu8XKXSCA1ORmvJqd8CpICNizfvE3dK32oC99dhsd6OBmSI660nPM_ikAglJmP2J3piDn64lZd2Cr6WVxM_zz58gM6Fazi_KFPUrNSKGNYdzu-98IKZpYTyobpuoZFOp",
+    "data_email": "Fri, 19 Jun 2026 05:07:00 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 12 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Motta Sant&#39;Anastasia, 72, Tor Bella Monaca - Valle Fiori...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36068615/",
+    "data_email": "Fri, 19 Jun 2026 08:10:31 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Mar Rosso, Ostia Levante, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Levante",
+    "link": "https://www.idealista.it/immobile/36067975/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Bartolomeo Cavaceppi, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36067971/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Franco Donatelli, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36067918/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Bartolomeo Cavaceppi, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36067917/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Dino Frescobaldi, 72, Monte Sacro Alto - Talenti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Monte Sacro Alto - Talenti",
+    "link": "https://www.idealista.it/immobile/36066745/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066606/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066601/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066600/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066599/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066597/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Tommaso Salvini, 53, Parioli, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Parioli",
+    "link": "https://www.idealista.it/immobile/36066596/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066593/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066579/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Tommaso Salvini, 53, Parioli, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Parioli",
+    "link": "https://www.idealista.it/immobile/36066576/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066569/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066567/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066566/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066554/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066553/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Renzo Rossi, 32, Pietralata - Tiburtina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pietralata - Tiburtina",
+    "link": "https://www.idealista.it/immobile/36066550/",
+    "data_email": "Fri, 19 Jun 2026 08:46:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Motta Sant&#39;Anastasia, 72, Tor Bella Monaca - Valle Fiori...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36068954/",
+    "data_email": "Fri, 19 Jun 2026 08:51:09 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giuseppe Berto, 7, Ardeatino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ardeatino",
+    "link": "https://www.idealista.it/immobile/36069965/",
+    "data_email": "Fri, 19 Jun 2026 10:04:51 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tommaso Zigliara, 7, Primavalle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Primavalle",
+    "link": "https://www.idealista.it/immobile/36070071/",
+    "data_email": "Fri, 19 Jun 2026 10:10:42 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Peveragno s.n.c, Aurelia - Val Cannuta - Ergifee, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Aurelia - Val Cannuta - Ergifee",
+    "link": "https://www.idealista.it/immobile/36070146/",
+    "data_email": "Fri, 19 Jun 2026 10:20:51 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via dei Centauri, 130, Torre Angela, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torre Angela",
+    "link": "https://www.idealista.it/immobile/36070552/",
+    "data_email": "Fri, 19 Jun 2026 10:47:37 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Annone, 2, Villa Chigi - Quartiere Africano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Villa Chigi - Quartiere Africano",
+    "link": "https://www.idealista.it/immobile/36071159/",
+    "data_email": "Fri, 19 Jun 2026 11:22:37 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Annone, 2, Villa Chigi - Quartiere Africano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Villa Chigi - Quartiere Africano",
+    "link": "https://www.idealista.it/immobile/36071264/",
+    "data_email": "Fri, 19 Jun 2026 11:28:19 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Melpomene, Torre Angela, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torre Angela",
+    "link": "https://www.idealista.it/immobile/36071067/",
+    "data_email": "Fri, 19 Jun 2026 11:31:43 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Annone, 2, Villa Chigi - Quartiere Africano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Villa Chigi - Quartiere Africano",
+    "link": "https://www.idealista.it/immobile/36071390/",
+    "data_email": "Fri, 19 Jun 2026 11:35:14 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Annone, 2, Villa Chigi - Quartiere Africano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Villa Chigi - Quartiere Africano",
+    "link": "https://www.idealista.it/immobile/36071440/",
+    "data_email": "Fri, 19 Jun 2026 11:41:48 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Massaciuccoli, 82, Villa Chigi - Quartiere Africano, Rom...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36071470/",
+    "data_email": "Fri, 19 Jun 2026 11:42:41 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Alessandrino, 400, Alessandrino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Alessandrino",
+    "link": "https://www.idealista.it/immobile/34605546/",
+    "data_email": "Fri, 19 Jun 2026 12:21:03 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Via Fermo Ognibene s.n.c, Mostacciano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mostacciano",
+    "link": "https://www.idealista.it/immobile/36062790/",
+    "data_email": "Fri, 19 Jun 2026 13:38:15 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via del Calice s.n.c, Capannelle - Aeroporto Ciampino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Capannelle - Aeroporto Ciampino",
+    "link": "https://www.idealista.it/immobile/36062779/",
+    "data_email": "Fri, 19 Jun 2026 13:38:15 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giacinto Motta, 45, Tor Bella Monaca - Valle Fiorita, Ro...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36062899/",
+    "data_email": "Fri, 19 Jun 2026 13:45:45 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Carlo Bosio, 8, Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Ponente",
+    "link": "https://www.idealista.it/immobile/36073265/",
+    "data_email": "Fri, 19 Jun 2026 14:05:57 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Zoe Fontana s.n.c, Settecamini, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Settecamini",
+    "link": "https://www.idealista.it/immobile/36073631/",
+    "data_email": "Fri, 19 Jun 2026 15:00:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Francesco Grenet, 27, Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Ponente",
+    "link": "https://www.idealista.it/immobile/34152071/",
+    "data_email": "Fri, 19 Jun 2026 15:16:58 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Giuseppe Mazzini, Mazzini - Lungotevere, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mazzini - Lungotevere",
+    "link": "https://www.idealista.it/immobile/35234272/",
+    "data_email": "Fri, 19 Jun 2026 16:05:46 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
   }
 ]
