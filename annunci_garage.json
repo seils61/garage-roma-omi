@@ -1498,5 +1498,35 @@
     "data_email": "Sat, 20 Jun 2026 13:31:20 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Pierfranco Bonetti 88, Mostacciano, Roma﻿",
+    "prezzo": 20000,
+    "superficie_mq": 24,
+    "zona": "Mostacciano",
+    "link": "https://clicks.immobiliare.it/f/a/jppWcuJ-X2Mk4lR0cYndgQ~~/AAAHahA~/Jh-Rcs7nImlMjCjJQON6Hd_yLjBOKVD1pI_YS6ajymw6laQS1X3VA0cfAzE9f7eDKiLR0U_d9XgXAQ11eOYpfuaGSrnY1DxSLmJvdcVYin_JvaIlZHDHK9RUoB8sozupsPZKJgmJ5t5LdjIIl43RMun7U7d1kqABIyJ3IUnQtrSUTQL9WaxdKM4piYt32RFLI3RRq2fIcRm655rZLGyE-o9GFmqlZ1yZ4YsrYAlcLec0GPiLTcqEsj4pgc8Ns9X3",
+    "data_email": "Sun, 21 Jun 2026 05:04:08 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 1 nuovo annuncio per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via di Orti Poli, 70, Tor Vergata - Giardinetti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Vergata - Giardinetti",
+    "link": "https://www.idealista.it/immobile/36082886/",
+    "data_email": "Sun, 21 Jun 2026 10:29:59 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Madonna del Riposo s.n.c, Aurelio - Gregorio VII, ...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36078469/",
+    "data_email": "Sun, 21 Jun 2026 12:03:35 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
   }
 ]
