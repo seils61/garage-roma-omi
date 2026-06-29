@@ -2628,5 +2628,45 @@
     "data_email": "Sun, 28 Jun 2026 12:46:32 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage - Box via Pietro Adami 39, Torrevecchia, Roma﻿",
+    "prezzo": 16000,
+    "superficie_mq": 12,
+    "zona": "Torrevecchia",
+    "link": "https://clicks.immobiliare.it/f/a/plbWkYYc2v7NkXY1-4DdMQ~~/AAAHahA~/D-ifqjJYJKjyD-Q_vz6EwSSkfZAhAFztyJtZQHWhzlq-0NtvCO_J4yCpbXCTyOe8mtcJ2S39siNXNnXf9r9Uc5uNO_Ee8E4P3JDiEWTBSVhAS1YQev8P7x6bLZI7RSJ0l_TKVrjtgkWN8hvZprwxmKtHjDlPO9xYvS1sMyrtcko1FUiTo259wkVfZKFqYZKTXotQEZkjWiHI3tjtmcpuK_ZWOJd6UlrF8pSAUC189jvF-y3zqZ0seosPD_p5uRON",
+    "data_email": "Mon, 29 Jun 2026 05:09:31 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 1 nuovo annuncio per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Pietro Adami, 39, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/35373224/",
+    "data_email": "Mon, 29 Jun 2026 13:03:18 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Luigi Maglione, 11, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/34616732/",
+    "data_email": "Mon, 29 Jun 2026 13:03:18 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via delle Baleniere, 160, Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Ponente",
+    "link": "https://www.idealista.it/immobile/36142659/",
+    "data_email": "Mon, 29 Jun 2026 17:29:56 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
