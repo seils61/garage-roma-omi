@@ -5468,5 +5468,35 @@
     "data_email": "Sat, 11 Jul 2026 12:23:56 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Riano, 40, Ponte Milvio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ponte Milvio",
+    "link": "https://www.idealista.it/immobile/36239034/",
+    "data_email": "Sat, 11 Jul 2026 19:40:35 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Giulia di Colloredo 56, Monteverde Nuovo, Roma﻿",
+    "prezzo": 35000,
+    "superficie_mq": 12,
+    "zona": "Monteverde Nuovo",
+    "link": "https://clicks.immobiliare.it/f/a/9_I66-jC_dV8xJabl8qXzg~~/AAAHahA~/cTi9jiM04FN0O4cI9XsdeaxLsL_yWq4H4gqc9GMhThf3gFLFRn9KRrnD5sBBIp_8RFhnyUa2c_o-aNYELQWoc74AbDjrpaHGQU9WlH-7mSwZL35blBJff0EoS37-bpIuudx1GqUgMnw3JbACb6i4gKpcl0H5oPemFhDJIkgtWbwvniFpjWR-BU97K6AtZxy0JNBF2e4rQoRhQZW5J0ypHsyRh8donIAvF945_nSeJTbCkzxEvJS7FUPF3inAf9Go",
+    "data_email": "Sun, 12 Jul 2026 05:13:09 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 2 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Cornelio Magni, 39, Ardeatino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ardeatino",
+    "link": "https://www.idealista.it/immobile/32398291/",
+    "data_email": "Sun, 12 Jul 2026 09:16:35 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
   }
 ]
