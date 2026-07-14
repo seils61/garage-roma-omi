@@ -5668,5 +5668,55 @@
     "data_email": "Mon, 13 Jul 2026 18:07:34 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Antonio Bertoloni s.n.c, Pinciano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pinciano",
+    "link": "https://www.idealista.it/immobile/36250241/",
+    "data_email": "Tue, 14 Jul 2026 05:47:55 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Lorenzo Rocci 67, Colli Portuensi - Casaletto, Roma﻿",
+    "prezzo": 49000,
+    "superficie_mq": 31,
+    "zona": "Colli Portuensi - Casaletto",
+    "link": "https://clicks.immobiliare.it/f/a/jXh34oQmwbtwnZkq31m78g~~/AAAHahA~/dnBHNelzjmdG-M-wyWtJuX5PHI8i8g0t15pgQc-_Z_NdXOc2YZ_Djncjhv2z-h-o6uTGpnlNlMTmZEK6ehaEpEe9Jtu_3XDWk-wRA4TvcgN8U4BCV2LgnCC_YkC4Fg4xuJZpcA_XE6Rlhey8MHkywh_J0vwNMlOxJFMAhl0o3f3WH1DlBGzF_AaNgg4aZOhr4lCktzszMwmpqbt9QivK1U0_I_pYAIaizgWD4OvFhgPLRXc80u-02ygsoIZyJMpE",
+    "data_email": "Tue, 14 Jul 2026 05:12:30 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 7 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Viale Gianluigi Bonelli s.n.c, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/35284083/",
+    "data_email": "Tue, 14 Jul 2026 09:48:18 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Lungotevere dei Mellini, 40, Prati, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Prati",
+    "link": "https://www.idealista.it/immobile/36251363/",
+    "data_email": "Tue, 14 Jul 2026 10:09:22 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Festo Porzio s.n.c, Appio Claudio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Appio Claudio",
+    "link": "https://www.idealista.it/immobile/36251915/",
+    "data_email": "Tue, 14 Jul 2026 10:55:42 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
