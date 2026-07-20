@@ -6738,5 +6738,75 @@
     "data_email": "Sun, 19 Jul 2026 05:15:38 +0000",
     "portale": "immobiliare",
     "oggetto_email": " 4 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Festo Avieno, 207, Balduina Alta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Balduina Alta",
+    "link": "https://www.idealista.it/immobile/36297281/",
+    "data_email": "Sun, 19 Jul 2026 22:57:21 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Bartolo da Sassoferrato, 14, Valle Aurelia - Baldo degli...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36297324/",
+    "data_email": "Mon, 20 Jul 2026 00:26:54 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Vaiano, 22, Magliana Nuova - Pian Due Torri, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Magliana Nuova - Pian Due Torri",
+    "link": "https://www.idealista.it/immobile/36297895/",
+    "data_email": "Mon, 20 Jul 2026 07:31:12 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Sirmione, 55, Labaro - Prima Porta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Labaro - Prima Porta",
+    "link": "https://www.idealista.it/immobile/36298060/",
+    "data_email": "Mon, 20 Jul 2026 08:31:11 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Guido Corbellini, 30, Ponte di Nona - Colle degli Abeti,...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36299265/",
+    "data_email": "Mon, 20 Jul 2026 10:55:31 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Cesare Pavese, 1, Eur - Ferratella, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur - Ferratella",
+    "link": "https://www.idealista.it/immobile/36299379/",
+    "data_email": "Mon, 20 Jul 2026 11:08:03 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Cesare Pavese, Eur - Ferratella, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur - Ferratella",
+    "link": "https://www.idealista.it/immobile/36299513/",
+    "data_email": "Mon, 20 Jul 2026 11:09:37 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
