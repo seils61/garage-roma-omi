@@ -7428,5 +7428,385 @@
     "data_email": "Thu, 23 Jul 2026 11:19:15 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Gabrio Serbelloni, 15, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36327076/",
+    "data_email": "Thu, 23 Jul 2026 11:20:14 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Amedeo Cencelli s.n.c, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36327201/",
+    "data_email": "Thu, 23 Jul 2026 11:21:40 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Trionfale, Degli Eroi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Degli Eroi",
+    "link": "https://www.idealista.it/immobile/36326705/",
+    "data_email": "Thu, 23 Jul 2026 11:55:53 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Palmiro Togliatti, 1500, Colli Aniene, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Colli Aniene",
+    "link": "https://www.idealista.it/immobile/31744234/",
+    "data_email": "Thu, 23 Jul 2026 12:35:21 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323141/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323131/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323122/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323119/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323110/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323078/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Torre Morena, Casal Morena, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casal Morena",
+    "link": "https://www.idealista.it/immobile/36323063/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323058/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Motta Sant&#39;Anastasia, Tor Bella Monaca - Valle Fiorita, ...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36323031/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323016/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36323012/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36322992/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36322971/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36322953/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36322927/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36322904/",
+    "data_email": "Thu, 23 Jul 2026 14:15:49 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Alessandro Avoli, 9, Monte Mario, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Monte Mario",
+    "link": "https://www.idealista.it/immobile/35509046/",
+    "data_email": "Thu, 23 Jul 2026 15:06:59 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Via Siro Corti, 25, Monte Mario, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Monte Mario",
+    "link": "https://www.idealista.it/immobile/36329922/",
+    "data_email": "Thu, 23 Jul 2026 15:59:56 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Quinto Novio, 15, Quadraro, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Quadraro",
+    "link": "https://www.idealista.it/immobile/36330562/",
+    "data_email": "Thu, 23 Jul 2026 16:53:06 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage a Mazzini - Lungotevere, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36333232/",
+    "data_email": "Fri, 24 Jul 2026 00:18:38 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "garage - box all'asta via della Valle dei Fontanili, 32, 00168 Roma Italia, Roma﻿",
+    "prezzo": 17250,
+    "superficie_mq": 16,
+    "zona": "00168 Roma Italia",
+    "link": "https://clicks.immobiliare.it/f/a/bEfhCqJk_Uoxa44SSPYm-w~~/AAAHahA~/Xj--aD4-E9xGTzsc8itavnjiUe42PrwQpWk-VAtr1COEK36QoAhYMbg6jTen9bNKOqknYPF6PFJXlbhk8niXGAjNh1M9aw0P4zhdxv6zKmNcTlX_oeET9vb-HyBH9N-6hGvRs1KBd4Snzz6a_DEgJjZVMPGBASjxpgIPad-MLK9JtWS6Cki_vZCeHAQzPQA1LAeICGD8OF2Uw4nBQWnwiGkRFZRJ8w947PUpkqQ0xMuoZ3awPXCDbfXPW1GK7ojc",
+    "data_email": "Fri, 24 Jul 2026 05:18:49 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 8 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Antonio Fogazzaro, 33, Monte Sacro Alto - Talenti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Monte Sacro Alto - Talenti",
+    "link": "https://www.idealista.it/immobile/36333988/",
+    "data_email": "Fri, 24 Jul 2026 07:33:05 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giovanni Mayer, 30, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36334103/",
+    "data_email": "Fri, 24 Jul 2026 08:13:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giovanni Mayer, 30, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36334109/",
+    "data_email": "Fri, 24 Jul 2026 08:13:48 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giovanni Mayer, 30, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36334576/",
+    "data_email": "Fri, 24 Jul 2026 08:47:17 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giovanni Mayer, 30, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/36334584/",
+    "data_email": "Fri, 24 Jul 2026 08:53:53 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Pierfranco Bonetti s.n.c, Mostacciano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mostacciano",
+    "link": "https://www.idealista.it/immobile/35277962/",
+    "data_email": "Fri, 24 Jul 2026 10:07:32 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Via Cicerone, Prati, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Prati",
+    "link": "https://www.idealista.it/immobile/36331242/",
+    "data_email": "Fri, 24 Jul 2026 10:41:15 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Pollutri, Lunghezza - Villaggio Prenestino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Lunghezza - Villaggio Prenestino",
+    "link": "https://www.idealista.it/immobile/36333067/",
+    "data_email": "Fri, 24 Jul 2026 10:50:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Bravetta, Pisana - Bravetta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pisana - Bravetta",
+    "link": "https://www.idealista.it/immobile/36333063/",
+    "data_email": "Fri, 24 Jul 2026 10:50:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Bravetta, Pisana - Bravetta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pisana - Bravetta",
+    "link": "https://www.idealista.it/immobile/36333042/",
+    "data_email": "Fri, 24 Jul 2026 10:50:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via della Valle dei Fontanili, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/36333024/",
+    "data_email": "Fri, 24 Jul 2026 10:50:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via della Valle dei Fontanili, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/36332828/",
+    "data_email": "Fri, 24 Jul 2026 10:50:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Bravetta, Pisana - Bravetta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pisana - Bravetta",
+    "link": "https://www.idealista.it/immobile/36332816/",
+    "data_email": "Fri, 24 Jul 2026 10:50:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
   }
 ]
