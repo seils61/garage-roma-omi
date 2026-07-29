@@ -8208,5 +8208,355 @@
     "data_email": "Tue, 28 Jul 2026 09:56:02 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Santa Maria alle Fornaci s.n.c, Aurelio - Gregorio VI...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36357847/",
+    "data_email": "Tue, 28 Jul 2026 11:34:20 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Montefalco, 16, Furio Camillo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Furio Camillo",
+    "link": "https://www.idealista.it/immobile/35625346/",
+    "data_email": "Tue, 28 Jul 2026 12:11:14 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Via Cristoforo Colombo, 400, Garbatella, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Garbatella",
+    "link": "https://www.idealista.it/immobile/36358345/",
+    "data_email": "Tue, 28 Jul 2026 12:14:09 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tuscolana, Romanina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Romanina",
+    "link": "https://www.idealista.it/immobile/25903296/",
+    "data_email": "Tue, 28 Jul 2026 12:33:01 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Silvio Serra, 28, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/36359158/",
+    "data_email": "Tue, 28 Jul 2026 13:34:48 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Conca d&#39;Oro, 312, Conca d&#39;Oro, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Conca d&#39;Oro",
+    "link": "https://www.idealista.it/immobile/35866817/",
+    "data_email": "Tue, 28 Jul 2026 14:01:44 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Stoccolma, 5, Eur Torrino - Tor di Valle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Eur Torrino - Tor di Valle",
+    "link": "https://www.idealista.it/immobile/36359998/",
+    "data_email": "Tue, 28 Jul 2026 15:57:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Bruno Pelizzi, 21, Cinecittà Est, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Cinecittà Est",
+    "link": "https://www.idealista.it/immobile/36360695/",
+    "data_email": "Tue, 28 Jul 2026 16:50:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Mendola, 35, Cortina d&#39;Ampezzo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Cortina d&#39;Ampezzo",
+    "link": "https://www.idealista.it/immobile/32241504/",
+    "data_email": "Tue, 28 Jul 2026 17:59:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Leopoldo Micucci, 91, Romanina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "91",
+    "link": "https://www.idealista.it/immobile/36361456/",
+    "data_email": "Tue, 28 Jul 2026 18:02:01 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Antonio Santoro, 4, Tor Tre Teste, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Tre Teste",
+    "link": "https://www.idealista.it/immobile/36361647/",
+    "data_email": "Tue, 28 Jul 2026 18:16:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Antonio Santoro, 4, Tor Tre Teste, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Tre Teste",
+    "link": "https://www.idealista.it/immobile/36361607/",
+    "data_email": "Tue, 28 Jul 2026 18:16:02 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage a Alessandrino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36361803/",
+    "data_email": "Tue, 28 Jul 2026 18:40:46 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1168, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36362416/",
+    "data_email": "Tue, 28 Jul 2026 20:01:48 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1168, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36362428/",
+    "data_email": "Tue, 28 Jul 2026 20:01:48 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Stoccolma 5, Torrino, Roma﻿",
+    "prezzo": 25000,
+    "superficie_mq": 22,
+    "zona": "Torrino",
+    "link": "https://clicks.immobiliare.it/f/a/2nab9IYUPwrwu2mE6gD1LQ~~/AAAHahA~/tWhCxVBTPj8EwwrpiLOSc_ZYseTqhbawEXYrsEHWHtTJYYjum_Ye3fs91ST5rd0UDT0M4W4dCnkUnxd-R8gisCtjxxMsgLKjCAU0NTk2uRR2qJkLhlfb9di1uIFdOtYWM2tg_Pkk_2p87ECjUMwTKVzFIubCWbEftvkext8coLYMfDdRrBw0X74Lnlo_2xo301DJXAveHOjExb7rNO4ELlh0NERVqEYERemcl1fFkShwZop-4qFXnT8hiuqS5k8W",
+    "data_email": "Wed, 29 Jul 2026 05:20:30 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 3 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364060/",
+    "data_email": "Wed, 29 Jul 2026 08:10:01 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364058/",
+    "data_email": "Wed, 29 Jul 2026 08:10:02 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364059/",
+    "data_email": "Wed, 29 Jul 2026 08:10:02 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364062/",
+    "data_email": "Wed, 29 Jul 2026 08:10:20 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364447/",
+    "data_email": "Wed, 29 Jul 2026 08:40:30 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364445/",
+    "data_email": "Wed, 29 Jul 2026 08:40:30 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364451/",
+    "data_email": "Wed, 29 Jul 2026 08:40:55 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1166, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36364468/",
+    "data_email": "Wed, 29 Jul 2026 08:42:14 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362920/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 258, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362918/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362915/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362913/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362912/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 258, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362907/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362904/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362897/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Filarete, 260, Tor Pignattara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Pignattara",
+    "link": "https://www.idealista.it/immobile/36362894/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1168, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36362417/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Tiburtina, 1168, Tor Cervara, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Cervara",
+    "link": "https://www.idealista.it/immobile/36362398/",
+    "data_email": "Wed, 29 Jul 2026 10:02:33 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
   }
 ]
