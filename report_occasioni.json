@@ -304,6 +304,22 @@
     "data_email": "Mon, 29 Jun 2026 05:09:31 +0000"
   },
   {
+    "titolo": "Posto auto - moto via Ermanno Wolf-Ferrari 242, Infernetto, Roma﻿",
+    "zona_annuncio": "Infernetto",
+    "zona_omi": "INFERNETTO (VIA ERMANNO WOLF FERRARI)",
+    "tipo_match_zona": "parziale",
+    "portale": "immobiliare",
+    "prezzo": 16000,
+    "superficie_mq": 12,
+    "prezzo_mq": 1333.0,
+    "omi_min_mq": 900.0,
+    "omi_max_mq": 1250.0,
+    "sconto_pct": -48.1,
+    "valutazione": "sopra_mercato",
+    "link": "https://clicks.immobiliare.it/f/a/pxnFT5Dh1ZOk_HF5pqCRkA~~/AAAHahA~/Xay6M04aYdSmrpcaXlqcKQ-H4OZUx7s-83XxXjH2UkF7lgBdp6uB6AqCl7lgEljTwjd7IOsdSjMceks-ibugJvDZ34xM6sVldPa6g14daKLZee9DlphLzWRQruQoswVIg2MNF_187h-p6QNAevTBXmYdltCdIGPF1SJhSItbqTEOOBKcgrIEg5NCNh_2aGs2RsoogBIv3KPL4lPr-86KGrnfCAIabQEJZJ9_iAouoMunvZC8LTXImv0fDP5vkt2u",
+    "data_email": "Sun, 02 Aug 2026 05:14:54 +0000"
+  },
+  {
     "titolo": "garage - box all'asta via dei Fagiani 9, Roma﻿",
     "zona_annuncio": "Pigneto",
     "zona_omi": "PIGNETO (PIAZZA DEL PIGNETO)",
@@ -14478,5 +14494,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/31854887/",
     "data_email": "Sat, 1 Aug 2026 10:35:45 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via Vergemoli, 24, Tomba di Nerone, Roma",
+    "zona_annuncio": "Tomba di Nerone",
+    "zona_omi": "TOMBA DI NERONE (VIA DI GROTTAROSSA)",
+    "tipo_match_zona": "parziale",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": 950.0,
+    "omi_max_mq": 1300.0,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/36390333/",
+    "data_email": "Sat, 1 Aug 2026 16:21:35 +0200 (CEST)"
   }
 ]
