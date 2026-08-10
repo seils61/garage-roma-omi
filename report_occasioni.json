@@ -64,6 +64,22 @@
     "data_email": "Sun, 09 Aug 2026 05:21:10 +0000"
   },
   {
+    "titolo": "Garage - Box via di Giardinetti 183, Giardinetti, Roma﻿",
+    "zona_annuncio": "Giardinetti",
+    "zona_omi": "GIARDINETTI (VIA MARCANTONIO RAIMONDI)",
+    "tipo_match_zona": "parziale",
+    "portale": "immobiliare",
+    "prezzo": 129000,
+    "superficie_mq": 270,
+    "prezzo_mq": 478.0,
+    "omi_min_mq": 700.0,
+    "omi_max_mq": 900.0,
+    "sconto_pct": 31.7,
+    "valutazione": "sotto_mercato",
+    "link": "https://clicks.immobiliare.it/f/a/6qUHpe7mD_V6XGRrtiQnWQ~~/AAAHahA~/i_CecpbcknPbieWYBA_NajO8lvfrcQ1SVaBEwe8fDv0hqogMpohznsATl0NSkP4m1WBo_e7YsXhpBYExJPU8il8OD9H5IlcLDQIU6cBM4L5Lh5v_bogcSBMKhwXx3GGv9b95-7SB3Mi8Rp7yhEXytuABWOnYMu4mMKI8zbmGom24a7u2EI5KpJQZrsBrECFmLVCLOZwQbIjgyqSooEe25VuGjFVkiLAo0m7XU7qWppGh-uGWDJSzUty4wUkIyYGWVFRVMxRhA8ulmFOnhxcs4A~~",
+    "data_email": "Mon, 10 Aug 2026 05:15:34 +0000"
+  },
+  {
     "titolo": "Garage - Box via Giorgio Iannicelli 69, La Giustiniana, Roma﻿",
     "zona_annuncio": "La Giustiniana",
     "zona_omi": "LA GIUSTINIANA (VIA ITALO PICCAGLI)",
@@ -15694,5 +15710,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/36431703/",
     "data_email": "Fri, 7 Aug 2026 18:46:59 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via della Cellulosa, 65, Casalotti, Roma",
+    "zona_annuncio": "Casalotti",
+    "zona_omi": "CASALOTTI SELVA CANDIDA (VIA DI SELVA NERA)",
+    "tipo_match_zona": "parziale",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": 850.0,
+    "omi_max_mq": 1050.0,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/36436647/",
+    "data_email": "Sun, 9 Aug 2026 21:58:51 +0200 (CEST)"
   }
 ]
