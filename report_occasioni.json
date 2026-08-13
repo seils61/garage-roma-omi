@@ -592,6 +592,22 @@
     "data_email": "Sun, 28 Jun 2026 05:09:31 +0000"
   },
   {
+    "titolo": "Garage - Box via del Fontanile Anagnino 50, Morena, Roma﻿",
+    "zona_annuncio": "Morena",
+    "zona_omi": "MORENA-CASAL MORENA (VIA CASAL MORENA)",
+    "tipo_match_zona": "parziale",
+    "portale": "immobiliare",
+    "prezzo": 2600000,
+    "superficie_mq": 689,
+    "prezzo_mq": 3774.0,
+    "omi_min_mq": 700.0,
+    "omi_max_mq": 1000.0,
+    "sconto_pct": -439.1,
+    "valutazione": "sopra_mercato",
+    "link": "https://clicks.immobiliare.it/f/a/Bgfe53_wmPiVhdyzIzz2EA~~/AAAHahA~/EoJ7WXz9kk9P3HQbK-vJ9wfsJSbp57q0NylfY1nwphJej3X9BjZLEL3VGdBcNfIhcFu9w6ul9E-1yXA0Kun9o6r0U-1-Dg5jbIdMS-toGGAn7fg24xgBWhIAB3WEWIDptNsTq-Q0jIY0w9rvv51gz-ZfHl92m5ftpkXmIi3C1dQRdr6zuAQL3GDOwcjzWNsFWFAg8Rk-RMpJai7E1KM1w-jOrOoeLbOQKXrVxQAVOnmZ3gaX10jspJMOzPIVL1JHDvGsSK38IpeBzVYEjTft6w~~",
+    "data_email": "Thu, 13 Aug 2026 05:17:18 +0000"
+  },
+  {
     "titolo": "Garage - Box via Carlo Arturo Jemolo 302, Torraccia, Roma﻿",
     "zona_annuncio": "Torraccia",
     "zona_omi": "TORRACCIA DI SAN BASILIO (VIA DONATO MENICHELLA)",
@@ -15790,5 +15806,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/36442382/",
     "data_email": "Mon, 10 Aug 2026 22:03:20 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via dei Due Ponti, Tomba di Nerone, Roma",
+    "zona_annuncio": "Tomba di Nerone",
+    "zona_omi": "TOMBA DI NERONE (VIA DI GROTTAROSSA)",
+    "tipo_match_zona": "parziale",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": 950.0,
+    "omi_max_mq": 1300.0,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/36452018/",
+    "data_email": "Wed, 12 Aug 2026 15:51:22 +0200 (CEST)"
   }
 ]
