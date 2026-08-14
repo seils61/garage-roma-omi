@@ -160,6 +160,22 @@
     "data_email": "Fri, 10 Jul 2026 05:14:20 +0000"
   },
   {
+    "titolo": "Posto auto - moto via Gregorio VII, Gregorio VII - Piccolomini, Roma﻿",
+    "zona_annuncio": "Gregorio VII - Piccolomini",
+    "zona_omi": "AURELIO GREGORIO VII (VIA GREGORIO VII)",
+    "tipo_match_zona": "keyword",
+    "portale": "immobiliare",
+    "prezzo": 1050000,
+    "superficie_mq": 870,
+    "prezzo_mq": 1207.0,
+    "omi_min_mq": 1400.0,
+    "omi_max_mq": 1850.0,
+    "sconto_pct": 13.8,
+    "valutazione": "sotto_mercato",
+    "link": "https://clicks.immobiliare.it/f/a/efyXUAM_s45xUlbogbLkNQ~~/AAAHahA~/DV4chxbuRpN_A3SCnoKVkbsaXqwMTzzXQ95dEIvxGvmiHe5ZDLPI9J4LsfnObbpW-kOTWpkwEPX1vH65OXEayyjlJL-KNXq-OSsgpB-C_RGDA06w5bUitq113BD53K59lNuj5S20s8DF1pCVSQuF7q0fwgJfoHLpNn_3wz8Vz6pQ-K7uTDCnckLtdWliGXkNzRhX6jMW_F77R5uhKyDsV5biYk4mtXG1frl-dPXdmbrWQ_5uPZmfGg5WeODLQXEN",
+    "data_email": "Fri, 14 Aug 2026 05:22:04 +0000"
+  },
+  {
     "titolo": "Garage - Box via Pierfranco Bonetti 88, Mostacciano, Roma﻿",
     "zona_annuncio": "Mostacciano",
     "zona_omi": "MOSTACCIANO (VIALE BEATA VERGINE DEL CARMELO)",
@@ -15822,5 +15838,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/36452018/",
     "data_email": "Wed, 12 Aug 2026 15:51:22 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via della Madonna del Riposo, 52, Aurelio - Gregorio VII, Ro...",
+    "zona_annuncio": "",
+    "zona_omi": null,
+    "tipo_match_zona": "zona_mancante",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/33699834/",
+    "data_email": "Thu, 13 Aug 2026 16:51:53 +0200 (CEST)"
   }
 ]
