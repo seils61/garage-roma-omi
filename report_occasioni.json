@@ -576,6 +576,22 @@
     "data_email": "Mon, 15 Jun 2026 05:05:59 +0000"
   },
   {
+    "titolo": "Garage - Box via Francesco dall'Ongaro 30, Monteverde Vecchio, Roma﻿",
+    "zona_annuncio": "Monteverde Vecchio",
+    "zona_omi": "MONTEVERDE VECCHIO (VIA POERIO)",
+    "tipo_match_zona": "parziale",
+    "portale": "immobiliare",
+    "prezzo": 120000,
+    "superficie_mq": 21,
+    "prezzo_mq": 5714.0,
+    "omi_min_mq": 1750.0,
+    "omi_max_mq": 2400.0,
+    "sconto_pct": -226.5,
+    "valutazione": "sopra_mercato",
+    "link": "https://clicks.immobiliare.it/f/a/gRVKPGzR_iO8-ZJh_Mrtrw~~/AAAHahA~/VddGuFZWPL9mmsIstdT9qJkyPjWpNRypsMViuES-91QG5kHPemMj0bnmOMWR0ErwWBmLyhhp48O53xjTprozWM6jRxGFzYp90NYfKaGoHx8AyYupCUSZZN3JeFqBpcsjCAVgVE5eGyaOcHSoR_pjO-KO8hfLb2wYm-PWlAhqvOoPlyXOJEh-UPBvuBfuEJN5e5dz4tZ6mTk90LoXZZr1fPhc8CFdzZtYneQHArSmFcu5BkqUwbet8t-leQGo-YAx",
+    "data_email": "Thu, 20 Aug 2026 05:19:44 +0000"
+  },
+  {
     "titolo": "Garage - Box via Giovanni Tamassia 24, Aurelio - Val Cannuta, Roma﻿",
     "zona_annuncio": "Aurelio - Val Cannuta",
     "zona_omi": "AURELIO VAL CANNUTA (VIA DI VAL CANNUTA)",
@@ -16030,5 +16046,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/36535225/",
     "data_email": "Tue, 18 Aug 2026 09:22:34 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via Baldo degli Ubaldi, Valle Aurelia - Baldo degli Ubaldi, ...",
+    "zona_annuncio": "",
+    "zona_omi": null,
+    "tipo_match_zona": "zona_mancante",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/36564978/",
+    "data_email": "Wed, 19 Aug 2026 13:22:24 +0200 (CEST)"
   }
 ]
