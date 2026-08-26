@@ -1136,6 +1136,22 @@
     "data_email": "Tue, 25 Aug 2026 05:26:57 +0000"
   },
   {
+    "titolo": "garage - box all'asta via Don Rua, 10, 00181 Roma Italia, Roma, Roma﻿",
+    "zona_annuncio": "00181 Roma Italia",
+    "zona_omi": null,
+    "tipo_match_zona": "non_mappata",
+    "portale": "immobiliare",
+    "prezzo": 95000,
+    "superficie_mq": 16,
+    "prezzo_mq": 5938.0,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "zona_non_mappata",
+    "link": "https://clicks.immobiliare.it/f/a/knpEaifIdiVrSbe3CDS9Zg~~/AAAHahA~/S4DGG6V3jbbVjpu2D27Ao2NiAdOndJu-OxyHzdwMrrpevY4JkBvRwj3fpHSS4LvBe9tsIv0JzAfi2KnQ_C0uHuWWjvHdwrd90LWbgWshVuchmsoz9KNoTlnp90FypleQKGMh1LAsyfhGFu8niNHcEnFy1hLm7nRGJj1uqhgE2T-TRqz0ZeiVBW4W91Lk8Z7qNb4F8_RUjUZqgsuDs3hzvWelhuk7L3qF2C8_QCk1RM2V2WhabPw_C1hI1be54wDE",
+    "data_email": "Wed, 26 Aug 2026 05:28:06 +0000"
+  },
+  {
     "titolo": "Garage in Via Alessandro Valignano, 56, Garbatella, Roma",
     "zona_annuncio": "Garbatella",
     "zona_omi": "GARBATELLA (LARGO DELLE SETTE CHIESE)",
@@ -16430,5 +16446,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/36633217/",
     "data_email": "Mon, 24 Aug 2026 23:03:16 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via Conca d&#39;Oro s.n.c, Conca d&#39;Oro, Roma",
+    "zona_annuncio": "Conca d&#39;Oro",
+    "zona_omi": null,
+    "tipo_match_zona": "non_mappata",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/36637795/",
+    "data_email": "Tue, 25 Aug 2026 16:35:27 +0200 (CEST)"
   }
 ]
