@@ -10288,5 +10288,75 @@
     "data_email": "Wed, 26 Aug 2026 05:28:06 +0000",
     "portale": "immobiliare",
     "oggetto_email": " 5 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Flaminia, 474, Ponte Milvio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ponte Milvio",
+    "link": "https://www.idealista.it/immobile/36640317/",
+    "data_email": "Wed, 26 Aug 2026 09:44:00 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Magliana Antica, Marconi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Marconi",
+    "link": "https://www.idealista.it/immobile/36640126/",
+    "data_email": "Wed, 26 Aug 2026 11:31:26 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Stazione di San Pietro s.n.c, Aurelio - Gregorio V...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36647100/",
+    "data_email": "Wed, 26 Aug 2026 16:55:41 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Piazza di Santa Maria alle Fornaci s.n.c, Aurelio - Gregorio...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36647245/",
+    "data_email": "Wed, 26 Aug 2026 17:22:13 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Silvestro Lega , 33, Acilia, Roma﻿",
+    "prezzo": 53000,
+    "superficie_mq": 91,
+    "zona": "Acilia",
+    "link": "https://clicks.immobiliare.it/f/a/ejIS6hokJ-4wKSnEI1TCxQ~~/AAAHahA~/X_n6_BIQXjVjNQqN1mKvsIDnftiqbBc4r88wZZOPN8rG1oScjgZhlLIe4yFljmA79hegYUpNDAKdE-8c66fojtHk3Tw9p7m5PAibC7PEhrg5ApbGPhtxy8iRLpXg8Ot6ADXXY-RjflOyosmCXzEBDWLjQUeZuRslJtVaC-QniRrAaAvaAl7su9Pq6dMxmzxpQAKjKYSNabVtJl3jjPPfZW-cOjgRBrhvH8sQVGYPo30cSMHc31grKaDFOJ4DQEo4",
+    "data_email": "Thu, 27 Aug 2026 05:28:07 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 2 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via della Rustica s.n.c, La Rustica, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "La Rustica",
+    "link": "https://www.idealista.it/immobile/35443077/",
+    "data_email": "Thu, 27 Aug 2026 11:27:20 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Via delle Susine, 111, Alessandrino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Alessandrino",
+    "link": "https://www.idealista.it/immobile/35826003/",
+    "data_email": "Thu, 27 Aug 2026 16:18:38 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
