@@ -10388,5 +10388,65 @@
     "data_email": "Sun, 30 Aug 2026 05:28:10 +0000",
     "portale": "immobiliare",
     "oggetto_email": " 1 annuncio che potrebbe interessarti per la tua ricerca ✨ : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Vicolo del Fosso di Sant&#39;Andrea, 59, Casal Morena, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casal Morena",
+    "link": "https://www.idealista.it/immobile/31690378/",
+    "data_email": "Mon, 31 Aug 2026 10:59:39 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Legnano, 58, Casal Morena, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casal Morena",
+    "link": "https://www.idealista.it/immobile/31689260/",
+    "data_email": "Mon, 31 Aug 2026 11:02:23 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Marco Polo, 80, San Saba, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "San Saba",
+    "link": "https://www.idealista.it/immobile/31750546/",
+    "data_email": "Mon, 31 Aug 2026 11:16:41 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giacomo Brogi, 39, Serafico - Roma 70, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Serafico - Roma 70",
+    "link": "https://www.idealista.it/immobile/36669821/",
+    "data_email": "Mon, 31 Aug 2026 13:14:39 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giacomo Brogi, 39, Serafico - Roma 70, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Serafico - Roma 70",
+    "link": "https://www.idealista.it/immobile/36669887/",
+    "data_email": "Mon, 31 Aug 2026 13:23:50 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Cesarò, 6, Borghesiana - Finocchio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Borghesiana - Finocchio",
+    "link": "https://www.idealista.it/immobile/36671239/",
+    "data_email": "Mon, 31 Aug 2026 16:25:17 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
