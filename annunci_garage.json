@@ -11268,5 +11268,25 @@
     "data_email": "Sat, 5 Sep 2026 12:32:27 +0200 (CEST)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "garage - box all'asta via Vaiano, 22, 00146 Roma Italia, Roma﻿",
+    "prezzo": 18000,
+    "superficie_mq": 88,
+    "zona": "00146 Roma Italia",
+    "link": "https://clicks.immobiliare.it/f/a/Xojpmcvi2tAtaHzZgKC83Q~~/AAAHahA~/l4XTM1P5Z-LY3cLxPEqpNRrnzmvB9_MJ_QFcppFVj5lFvHMWlYRsbg34CYsAjcwj9TvZS-SBw_oLvOC2NyeuqcaYOREQGqCKLBAL4drMzrIJFolPvpEJyDSXcgCuVWB7WoF8HZUKt_Q6lVkJwQmigreQ_Jxi-z7x1qUsqO214sWhtbpPjDrmpgkeVPqwYxZ_mXg-lztTRS4tH7RJS2VNmdsH4VB33IJbi2z35j1SsLrDTE7DtFL_Ida8lznfYYLQ",
+    "data_email": "Sun, 06 Sep 2026 05:29:41 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 3 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Pontecorvo, 7, Tomba di Nerone, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tomba di Nerone",
+    "link": "https://www.idealista.it/immobile/36738957/",
+    "data_email": "Sun, 6 Sep 2026 09:40:24 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
   }
 ]

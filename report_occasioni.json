@@ -1296,6 +1296,22 @@
     "data_email": "Sat, 05 Sep 2026 05:33:50 +0000"
   },
   {
+    "titolo": "garage - box all'asta via Vaiano, 22, 00146 Roma Italia, Roma﻿",
+    "zona_annuncio": "00146 Roma Italia",
+    "zona_omi": null,
+    "tipo_match_zona": "non_mappata",
+    "portale": "immobiliare",
+    "prezzo": 18000,
+    "superficie_mq": 88,
+    "prezzo_mq": 205.0,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "zona_non_mappata",
+    "link": "https://clicks.immobiliare.it/f/a/Xojpmcvi2tAtaHzZgKC83Q~~/AAAHahA~/l4XTM1P5Z-LY3cLxPEqpNRrnzmvB9_MJ_QFcppFVj5lFvHMWlYRsbg34CYsAjcwj9TvZS-SBw_oLvOC2NyeuqcaYOREQGqCKLBAL4drMzrIJFolPvpEJyDSXcgCuVWB7WoF8HZUKt_Q6lVkJwQmigreQ_Jxi-z7x1qUsqO214sWhtbpPjDrmpgkeVPqwYxZ_mXg-lztTRS4tH7RJS2VNmdsH4VB33IJbi2z35j1SsLrDTE7DtFL_Ida8lznfYYLQ",
+    "data_email": "Sun, 06 Sep 2026 05:29:41 +0000"
+  },
+  {
     "titolo": "Garage in Via Alessandro Valignano, 56, Garbatella, Roma",
     "zona_annuncio": "Garbatella",
     "zona_omi": "GARBATELLA (LARGO DELLE SETTE CHIESE)",
@@ -18030,5 +18046,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/36737794/",
     "data_email": "Sat, 5 Sep 2026 12:32:27 +0200 (CEST)"
+  },
+  {
+    "titolo": "Garage in Via Pontecorvo, 7, Tomba di Nerone, Roma",
+    "zona_annuncio": "Tomba di Nerone",
+    "zona_omi": "TOMBA DI NERONE (VIA DI GROTTAROSSA)",
+    "tipo_match_zona": "parziale",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": 950.0,
+    "omi_max_mq": 1300.0,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/36738957/",
+    "data_email": "Sun, 6 Sep 2026 09:40:24 +0200 (CEST)"
   }
 ]
