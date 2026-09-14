@@ -12088,5 +12088,65 @@
     "data_email": "Sun, 13 Sep 2026 05:28:32 +0000",
     "portale": "immobiliare",
     "oggetto_email": " 3 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "garage - box all'asta via Sacco e Vanzetti , 193, Roma﻿",
+    "prezzo": 122000,
+    "superficie_mq": 345,
+    "zona": "193",
+    "link": "https://clicks.immobiliare.it/f/a/yv_lujZH3Mq6Sv0n5WIopw~~/AAAHahA~/XIcI8wOyW6PxALMujBVZwYDB4Ao_chkEqmltF1yy6ihY9SJHZ1_n2g013PZBa3jgtN0edVCubudcJ9c8lWhnVfHQVGneeRMPEwg9asVaQbuDxVNYGg6wgDqjWc5e9tqJRnwL3k-nrX2Of8tlE_l38VEwcW73pEyDm9tTbZYOw4Fb7BMEJtSKru127mUlAcoMNBghJy4f0rRk1JeyVxp4m7npO8-U2Quh8nhQV1jNiMCTJqN4a4cvN0ggOvlwoh90",
+    "data_email": "Mon, 14 Sep 2026 05:30:32 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 1 nuovo annuncio per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Giacinto de Vecchi Pieralice, 88, Aurelio - Gregorio VII...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/36813929/",
+    "data_email": "Mon, 14 Sep 2026 11:18:45 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via dei Corazzieri, 34, Giuliano Dalmata, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Giuliano Dalmata",
+    "link": "https://www.idealista.it/immobile/36814095/",
+    "data_email": "Mon, 14 Sep 2026 11:32:03 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Paolucci Antonio, 8, Colli Portuensi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Colli Portuensi",
+    "link": "https://www.idealista.it/immobile/36815163/",
+    "data_email": "Mon, 14 Sep 2026 12:53:09 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via delle Ciliegie, 63, Alessandrino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Alessandrino",
+    "link": "https://www.idealista.it/immobile/36810176/",
+    "data_email": "Mon, 14 Sep 2026 13:52:04 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Lucio Cassio, Tomba di Nerone, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tomba di Nerone",
+    "link": "https://www.idealista.it/immobile/36816014/",
+    "data_email": "Mon, 14 Sep 2026 14:39:45 +0200 (CEST)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
