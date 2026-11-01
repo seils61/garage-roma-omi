@@ -352,6 +352,22 @@
     "data_email": "Tue, 13 Oct 2026 05:48:13 +0000"
   },
   {
+    "titolo": "Posto auto - moto via Emilio Longoni 39, Tor Sapienza - La Rustica, Roma﻿",
+    "zona_annuncio": "Tor Sapienza - La Rustica",
+    "zona_omi": "TOR SAPIENZA-ZONA INDUSTRIALE VIA DELL`OMO (VIALE GIORGIO DE CHIRICO)",
+    "tipo_match_zona": "keyword",
+    "portale": "immobiliare",
+    "prezzo": 12000,
+    "superficie_mq": 13,
+    "prezzo_mq": 923.0,
+    "omi_min_mq": 850.0,
+    "omi_max_mq": 1100.0,
+    "sconto_pct": -8.6,
+    "valutazione": "in_linea",
+    "link": "https://clicks.immobiliare.it/f/a/lrBMSJr1ETtMc7MchHSLDA~~/AAAHahA~/AxhlYjQx-b8OsCB5sUd1TOrBJGScJ0ru1NjA7OPdCnW1qS48cglAly78pdyHCT5IcE2owQffQqTYyFBHYAYLcRWYsYE8euvY5rImAHYZuZnuPWhjO_REofjpHVDp3XwQUXyVIdouZ5Nr0GUeXW4dSFqY1nn_SL-c52VD0r0B95QQrAxU9H_LSQGoEBMy4r19pzDZkKl0WYXemUs0esdzAZc3tp3vXkd3dMeo2LQ-tlD4siVUb0MVKDIwT4ZZ7iex",
+    "data_email": "Sun, 01 Nov 2026 05:42:04 +0000"
+  },
+  {
     "titolo": "Garage - Box via Pomona 60, Pietralata, Roma﻿",
     "zona_annuncio": "Pietralata",
     "zona_omi": "PIETRALATA TIBURTINO (VIA FILIPPO MEDA)",
@@ -33822,5 +33838,53 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/37310131/",
     "data_email": "Sat, 31 Oct 2026 12:23:03 +0100 (CET)"
+  },
+  {
+    "titolo": "Garage in Via Alfredo Casella, 47, Villa Chigi - Quartiere Africano, R...",
+    "zona_annuncio": "",
+    "zona_omi": null,
+    "tipo_match_zona": "zona_mancante",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/37327970/",
+    "data_email": "Sat, 31 Oct 2026 14:52:18 +0100 (CET)"
+  },
+  {
+    "titolo": "Garage in Via della Tenuta di Torrenova, 62, Tor Vergata - Giardinetti...",
+    "zona_annuncio": "",
+    "zona_omi": null,
+    "tipo_match_zona": "zona_mancante",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/37328332/",
+    "data_email": "Sat, 31 Oct 2026 17:22:45 +0100 (CET)"
+  },
+  {
+    "titolo": "Garage in Via della Tenuta di Torrenova, 62, Tor Vergata - Giardinetti...",
+    "zona_annuncio": "",
+    "zona_omi": null,
+    "tipo_match_zona": "zona_mancante",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/37328365/",
+    "data_email": "Sat, 31 Oct 2026 17:22:45 +0100 (CET)"
   }
 ]
