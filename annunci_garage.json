@@ -21358,5 +21358,255 @@
     "data_email": "Mon, 2 Nov 2026 16:11:21 +0100 (CET)",
     "portale": "idealista",
     "oggetto_email": "Diminuzione di prezzo per la tua ricerca: Garage o posti auto a\r\n Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Giuseppe Dessì, Ardeatino - Montagnola, Roma﻿",
+    "prezzo": 30000,
+    "superficie_mq": 18,
+    "zona": "Ardeatino - Montagnola",
+    "link": "https://clicks.immobiliare.it/f/a/xdUG6NjcPyt22krjlATXvQ~~/AAAHahA~/NEM3K1PkLgo1UN2rkjE-Zil4XjKI-s9rmU9rfCvnzChP0Oz3CakWMkmfMu49OA2CjcmNE7VNHTleB_omEB2VmjksRKCPf60D33u5Bhul-4PgGPe7535Jham-OVP3al14bpgZNJ_w1c_-P40PBPAgCW_4B0O1eapH1bwJfQIrkKwEwZe1iveH3nhDKeynqYsgctOZsh4FfHsXTy1PE3ypml528-JLfvfwfLx1UzZRrjfE020w1g1qUwmfvqG9lFXM",
+    "data_email": "Tue, 03 Nov 2026 05:55:39 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 6 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Giovanni Mayer, 30, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37348984/",
+    "data_email": "Tue, 3 Nov 2026 07:04:54 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giovanni Mayer, 30, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37348922/",
+    "data_email": "Tue, 3 Nov 2026 07:05:15 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Don Rua, 10, Furio Camillo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Furio Camillo",
+    "link": "https://www.idealista.it/immobile/37349125/",
+    "data_email": "Tue, 3 Nov 2026 08:03:15 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Don Rua, 12, Furio Camillo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Furio Camillo",
+    "link": "https://www.idealista.it/immobile/37349159/",
+    "data_email": "Tue, 3 Nov 2026 08:03:36 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Don Rua, 10, Furio Camillo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Furio Camillo",
+    "link": "https://www.idealista.it/immobile/37349173/",
+    "data_email": "Tue, 3 Nov 2026 08:03:41 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Don Rua, 10, Furio Camillo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Furio Camillo",
+    "link": "https://www.idealista.it/immobile/37349188/",
+    "data_email": "Tue, 3 Nov 2026 08:03:57 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Filippo Antonio Gualterio, 5, Nuovo Salario, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Nuovo Salario",
+    "link": "https://www.idealista.it/immobile/37342649/",
+    "data_email": "Tue, 3 Nov 2026 09:24:08 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via del Ghirlandaio, 45, Flaminio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Flaminio",
+    "link": "https://www.idealista.it/immobile/37342466/",
+    "data_email": "Tue, 3 Nov 2026 09:24:08 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Val Seriana, 7, Conca d&#39;Oro, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Conca d&#39;Oro",
+    "link": "https://www.idealista.it/immobile/37342336/",
+    "data_email": "Tue, 3 Nov 2026 09:24:08 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Giuseppe Belardinelli, 20, La Storta - Isola Farnese, Ro...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37342193/",
+    "data_email": "Tue, 3 Nov 2026 09:24:08 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Giuseppe Dessì, Ardeatino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ardeatino",
+    "link": "https://www.idealista.it/immobile/37336168/",
+    "data_email": "Tue, 3 Nov 2026 09:24:08 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via dei Georgofili, 98, Ardeatino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ardeatino",
+    "link": "https://www.idealista.it/immobile/37350310/",
+    "data_email": "Tue, 3 Nov 2026 10:07:22 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Priolo Gargallo, Tor Bella Monaca - Valle Fiorita, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Bella Monaca - Valle Fiorita",
+    "link": "https://www.idealista.it/immobile/37350760/",
+    "data_email": "Tue, 3 Nov 2026 10:36:16 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Magliana, 475, Trullo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Trullo",
+    "link": "https://www.idealista.it/immobile/37352198/",
+    "data_email": "Tue, 3 Nov 2026 12:05:27 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Barbiellini Amidei Bernardo, Gemelli, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Gemelli",
+    "link": "https://www.idealista.it/immobile/37352522/",
+    "data_email": "Tue, 3 Nov 2026 12:08:45 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Barbiellini Amidei Bernardo, Gemelli, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Gemelli",
+    "link": "https://www.idealista.it/immobile/37352555/",
+    "data_email": "Tue, 3 Nov 2026 12:10:19 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via dei Gonzaga, Pisana - Bravetta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pisana - Bravetta",
+    "link": "https://www.idealista.it/immobile/37352720/",
+    "data_email": "Tue, 3 Nov 2026 12:23:38 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Danilo Stiepovich, 28, Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Ponente",
+    "link": "https://www.idealista.it/immobile/37353268/",
+    "data_email": "Tue, 3 Nov 2026 12:59:53 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Novaledo, 33, Infernetto, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Infernetto",
+    "link": "https://www.idealista.it/immobile/37353464/",
+    "data_email": "Tue, 3 Nov 2026 13:05:55 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Torcegno, 49, Infernetto, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Infernetto",
+    "link": "https://www.idealista.it/immobile/37353502/",
+    "data_email": "Tue, 3 Nov 2026 13:06:17 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Umberto Giordano, 99, Infernetto, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Infernetto",
+    "link": "https://www.idealista.it/immobile/37353496/",
+    "data_email": "Tue, 3 Nov 2026 13:06:20 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Umberto Giordano, 99, Infernetto, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Infernetto",
+    "link": "https://www.idealista.it/immobile/37353534/",
+    "data_email": "Tue, 3 Nov 2026 13:06:39 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Torcegno, 49, Infernetto, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Infernetto",
+    "link": "https://www.idealista.it/immobile/37353551/",
+    "data_email": "Tue, 3 Nov 2026 13:06:42 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Torcegno, 49, Infernetto, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Infernetto",
+    "link": "https://www.idealista.it/immobile/37353524/",
+    "data_email": "Tue, 3 Nov 2026 13:07:19 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
