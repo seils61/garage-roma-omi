@@ -22718,5 +22718,65 @@
     "data_email": "Sat, 7 Nov 2026 11:12:58 +0100 (CET)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Alessandro Luzio, 66, Appio Latino - Caffarella, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Appio Latino - Caffarella",
+    "link": "https://www.idealista.it/immobile/37408170/",
+    "data_email": "Sat, 7 Nov 2026 23:28:04 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via delle Canarie 31, Ostia Ponente, Roma﻿",
+    "prezzo": 50000,
+    "superficie_mq": 38,
+    "zona": "Ostia Ponente",
+    "link": "https://clicks.immobiliare.it/f/a/0nli98zStz30U6CWK2osAw~~/AAAHahA~/ZXao7R6krdOQLfUO7BypTIib_d3YZp7IKOrzZLNVXe00iI4qfCHpE9AfPVL0uHrz-or_FzHTNdZd_xXSNwtdiEdxPoYX_Nn9qShmETqlg-mZ4a281g91qOx2lkMn4Z9fYPyh-teqIla4eoSYo1OsO8fjob8UIs7Dpoyc25um5geaDhrX2W-WbwLMemJ2YLWm0Hy5rywW1N4S5pKoRH-bk5CCzBYCiyfsooVte4MQnC1Y_0nTH0zWTTg4_4OhzzcL",
+    "data_email": "Sun, 08 Nov 2026 05:47:43 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 1 nuovo annuncio per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via delle Canarie, 31, Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Ponente",
+    "link": "https://www.idealista.it/immobile/37406768/",
+    "data_email": "Sun, 8 Nov 2026 08:59:29 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Colonnello Tommaso Masala, 42, Magliana Vecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Magliana Vecchia",
+    "link": "https://www.idealista.it/immobile/37404847/",
+    "data_email": "Sun, 8 Nov 2026 08:59:29 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Val Maggia, 56, Conca d&#39;Oro, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Conca d&#39;Oro",
+    "link": "https://www.idealista.it/immobile/29653755/",
+    "data_email": "Sun, 8 Nov 2026 08:59:29 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via delle Gondole, 140, Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ostia Ponente",
+    "link": "https://www.idealista.it/immobile/36868354/",
+    "data_email": "Sun, 8 Nov 2026 08:59:29 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
   }
 ]
