@@ -23188,5 +23188,325 @@
     "data_email": "Tue, 10 Nov 2026 14:19:17 +0100 (CET)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Val di Contra, Castelverde, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Castelverde",
+    "link": "https://www.idealista.it/immobile/37441875/",
+    "data_email": "Wed, 11 Nov 2026 01:10:47 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Cristoforo Foppa 41, Giardinetti, Roma﻿",
+    "prezzo": 55000,
+    "superficie_mq": 25,
+    "zona": "Giardinetti",
+    "link": "https://clicks.immobiliare.it/f/a/c_nPTUAN-d_ZGcubN-ofjg~~/AAAHahA~/4NXjuOQiungJwU-ZSE-Qj1aBfqGqe8m50xeahjbdVIrUUZuv8VqHBiy0aKmXOE-Rj_cKAsOVAvCevf3mwGFzrOOCCAFBhHPecBE2nxiNsu2AtgTcs1gja8j6E-ezoz3pIFtorTl9rUSOnglE9VtvOExBxY2xrX0D6vLe_8DoMo1YTtTpq-EyS7dIbOanx8F6sa-NAF7vPsaJ2GDLOpYLQmbGzUHqczLoW8lYf3D6OFtWvxqD-LjrOlbKPSa4B9AM",
+    "data_email": "Wed, 11 Nov 2026 05:58:06 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 11 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Emilio Longoni, 11, Tor Sapienza, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Sapienza",
+    "link": "https://www.idealista.it/immobile/37444322/",
+    "data_email": "Wed, 11 Nov 2026 08:49:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Emilio Longoni, 11, Tor Sapienza, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Sapienza",
+    "link": "https://www.idealista.it/immobile/37444320/",
+    "data_email": "Wed, 11 Nov 2026 08:49:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Arturo Graf, 58, Talenti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Talenti",
+    "link": "https://www.idealista.it/immobile/37444725/",
+    "data_email": "Wed, 11 Nov 2026 09:18:47 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Bartolomeo Maranta, 10, Kant, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Kant",
+    "link": "https://www.idealista.it/immobile/37444785/",
+    "data_email": "Wed, 11 Nov 2026 09:19:14 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Pollutri, Lunghezza - Villaggio Prenestino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Lunghezza - Villaggio Prenestino",
+    "link": "https://www.idealista.it/immobile/37440967/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440941/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440902/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440894/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440891/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440861/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Giuseppe Berto, Ardeatino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ardeatino",
+    "link": "https://www.idealista.it/immobile/37440848/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440829/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37440823/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage a Parioli, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37440595/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Sacco e Vanzetti, 193, Colli Aniene, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Colli Aniene",
+    "link": "https://www.idealista.it/immobile/37440069/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Monte Senario, 5, Monte Sacro - Città Giardino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Monte Sacro - Città Giardino",
+    "link": "https://www.idealista.it/immobile/37438149/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Mombaruzzo, 120, Casalotti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casalotti",
+    "link": "https://www.idealista.it/immobile/37437373/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Mombaruzzo, 120, Casalotti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casalotti",
+    "link": "https://www.idealista.it/immobile/37437324/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Mombaruzzo, 120, Casalotti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casalotti",
+    "link": "https://www.idealista.it/immobile/37437322/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Gerolamo Cardano, 16, Marconi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Marconi",
+    "link": "https://www.idealista.it/immobile/37436575/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Val Maggia, 140, Conca d&#39;Oro, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Conca d&#39;Oro",
+    "link": "https://www.idealista.it/immobile/37434938/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Libia, 31, Villa Chigi - Quartiere Africano, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Villa Chigi - Quartiere Africano",
+    "link": "https://www.idealista.it/immobile/37434649/",
+    "data_email": "Wed, 11 Nov 2026 09:34:34 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Davide Campari s.n.c, Tor Tre Teste, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Tor Tre Teste",
+    "link": "https://www.idealista.it/immobile/37445198/",
+    "data_email": "Wed, 11 Nov 2026 09:48:12 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Rocco Pagliara, 47, Ottavia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ottavia",
+    "link": "https://www.idealista.it/immobile/37445732/",
+    "data_email": "Wed, 11 Nov 2026 10:14:18 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Anton Maria Valsalva, 11, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37445969/",
+    "data_email": "Wed, 11 Nov 2026 10:23:53 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Quirino Majorana, 145, Marconi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Marconi",
+    "link": "https://www.idealista.it/immobile/37446572/",
+    "data_email": "Wed, 11 Nov 2026 11:18:48 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via del Forte Bravetta, 184, Pisana - Bravetta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pisana - Bravetta",
+    "link": "https://www.idealista.it/immobile/37446887/",
+    "data_email": "Wed, 11 Nov 2026 11:24:46 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Michele di Lando, Bologna, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Bologna",
+    "link": "https://www.idealista.it/immobile/37447086/",
+    "data_email": "Wed, 11 Nov 2026 11:44:42 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Carlo Fadda s.n.c, Don Bosco, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Don Bosco",
+    "link": "https://www.idealista.it/immobile/37448987/",
+    "data_email": "Wed, 11 Nov 2026 14:12:38 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Palmiro Togliatti, 286, Don Bosco, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Don Bosco",
+    "link": "https://www.idealista.it/immobile/37449038/",
+    "data_email": "Wed, 11 Nov 2026 14:13:23 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
