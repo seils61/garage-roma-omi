@@ -24098,5 +24098,25 @@
     "data_email": "Sat, 14 Nov 2026 12:35:30 +0100 (CET)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage - Box via Livio Pentimalli, 35, Balduina, Roma﻿",
+    "prezzo": 80000,
+    "superficie_mq": 20,
+    "zona": "Balduina",
+    "link": "https://clicks.immobiliare.it/f/a/_4KlSD3aAyuhS2P1ShOAVQ~~/AAAHahA~/JKSgUy06dggTm3U0keL1azBH4KOZ5W_ob1XPiZ_ByW-3y2h6vuoTFf_fl9kKQqlUrrxjvLYIn5omavDzRNxJHD7CGK3B17Znb8uVvgOrDELIo7iNVFoXQoyMUWwYtQyzPj--BnTaY8VQIRNw_-9I9QmyhF8djrE7BrNj36-qWiZ5oHsSlZlHDIfSujjWNWJh2hfA2pQfMHUmIDkzaUSb2mcbIyDnsQnOHfiN7l_sbT1j5ta4q_ho4s3UdT5I6aKQ",
+    "data_email": "Sun, 15 Nov 2026 05:45:50 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 1 nuovo annuncio per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Matera, 12, Re di Roma, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Re di Roma",
+    "link": "https://www.idealista.it/immobile/37486598/",
+    "data_email": "Sun, 15 Nov 2026 08:35:49 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]

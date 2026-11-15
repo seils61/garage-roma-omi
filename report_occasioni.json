@@ -1024,6 +1024,22 @@
     "data_email": "Tue, 21 Jul 2026 05:18:01 +0000"
   },
   {
+    "titolo": "Garage - Box via Livio Pentimalli, 35, Balduina, Roma﻿",
+    "zona_annuncio": "Balduina",
+    "zona_omi": "BALDUINA GIOVENALE (VIA DELLE MEDAGLIE D`ORO)",
+    "tipo_match_zona": "parziale",
+    "portale": "immobiliare",
+    "prezzo": 80000,
+    "superficie_mq": 20,
+    "prezzo_mq": 4000.0,
+    "omi_min_mq": 1600.0,
+    "omi_max_mq": 2250.0,
+    "sconto_pct": -150.0,
+    "valutazione": "sopra_mercato",
+    "link": "https://clicks.immobiliare.it/f/a/_4KlSD3aAyuhS2P1ShOAVQ~~/AAAHahA~/JKSgUy06dggTm3U0keL1azBH4KOZ5W_ob1XPiZ_ByW-3y2h6vuoTFf_fl9kKQqlUrrxjvLYIn5omavDzRNxJHD7CGK3B17Znb8uVvgOrDELIo7iNVFoXQoyMUWwYtQyzPj--BnTaY8VQIRNw_-9I9QmyhF8djrE7BrNj36-qWiZ5oHsSlZlHDIfSujjWNWJh2hfA2pQfMHUmIDkzaUSb2mcbIyDnsQnOHfiN7l_sbT1j5ta4q_ho4s3UdT5I6aKQ",
+    "data_email": "Sun, 15 Nov 2026 05:45:50 +0000"
+  },
+  {
     "titolo": "Garage - Box via Quirino Majorana, Marconi, Roma﻿",
     "zona_annuncio": "Marconi",
     "zona_omi": "MARCONI (PIAZZA ENRICO FERMI)",
@@ -38558,5 +38574,21 @@
     "valutazione": "prezzo_mq_mancante",
     "link": "https://www.idealista.it/immobile/37482411/",
     "data_email": "Sat, 14 Nov 2026 12:35:30 +0100 (CET)"
+  },
+  {
+    "titolo": "Garage in Via Matera, 12, Re di Roma, Roma",
+    "zona_annuncio": "Re di Roma",
+    "zona_omi": null,
+    "tipo_match_zona": "non_mappata",
+    "portale": "idealista",
+    "prezzo": null,
+    "superficie_mq": null,
+    "prezzo_mq": null,
+    "omi_min_mq": null,
+    "omi_max_mq": null,
+    "sconto_pct": null,
+    "valutazione": "prezzo_mq_mancante",
+    "link": "https://www.idealista.it/immobile/37486598/",
+    "data_email": "Sun, 15 Nov 2026 08:35:49 +0100 (CET)"
   }
 ]
