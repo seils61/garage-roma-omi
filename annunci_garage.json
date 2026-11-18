@@ -24488,5 +24488,405 @@
     "data_email": "Tue, 17 Nov 2026 14:04:45 +0100 (CET)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "garage - box all'asta largo G. Martina 7, Roma﻿",
+    "prezzo": 7820,
+    "superficie_mq": 18,
+    "zona": "Boccea",
+    "link": "https://clicks.immobiliare.it/f/a/7RYGQAK36ewUdQBF_ez4GA~~/AAAHahA~/D5jrZRAsZhFZex9VpLUN_D2Ay_s91ffq-IFxFmFFiNiHP9DuQcP2G1zmKoBaQC-gw_CiSJfH2v2n2HGyyCrB3KB2T_7mElkfcIadeh07M598Xz3ihob_NXsibd-OzjxGPawnElGgf_0gEHBJ3jvriSAxUPtXRGyMfAInTIFSsw7hE4-Jj2R5q4QMW-yz9wGlyWH80NpSZq5uKTHFkal6kyhqyubVKXpPPxJbdv8eHcuZxVfESzFflt9oQB3ORXmD",
+    "data_email": "Wed, 18 Nov 2026 06:04:45 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 20 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via Roberto Raviola, 31, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37519654/",
+    "data_email": "Wed, 18 Nov 2026 08:38:35 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Largo Guido Martina, 7, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37519661/",
+    "data_email": "Wed, 18 Nov 2026 08:38:59 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Roberto Raviola, 31, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37519662/",
+    "data_email": "Wed, 18 Nov 2026 08:39:22 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Franco Donatelli, 6, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37519666/",
+    "data_email": "Wed, 18 Nov 2026 08:40:13 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Franco Donatelli, 6, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37519657/",
+    "data_email": "Wed, 18 Nov 2026 08:40:38 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Lucrezia Romana, 80, Capannelle - Aeroporto Ciampino, Ro...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37519684/",
+    "data_email": "Wed, 18 Nov 2026 08:42:09 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Joan Miró, 21, Capannelle - Aeroporto Ciampino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Capannelle - Aeroporto Ciampino",
+    "link": "https://www.idealista.it/immobile/37519677/",
+    "data_email": "Wed, 18 Nov 2026 08:43:22 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37519679/",
+    "data_email": "Wed, 18 Nov 2026 08:43:46 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37519693/",
+    "data_email": "Wed, 18 Nov 2026 08:45:40 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37519702/",
+    "data_email": "Wed, 18 Nov 2026 08:46:00 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37519698/",
+    "data_email": "Wed, 18 Nov 2026 08:46:42 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37514824/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37514819/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37514796/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37514049/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37513859/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Roccasecca, 19, Settecamini, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Settecamini",
+    "link": "https://www.idealista.it/immobile/37513376/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, 57, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37512245/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512234/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, 57, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37512230/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512221/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, 57, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37512207/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, 57, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37512166/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, 57, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37512160/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pallanza, 57, Selva Candida - Selva Nera, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Selva Candida - Selva Nera",
+    "link": "https://www.idealista.it/immobile/37512157/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512136/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512129/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512124/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512114/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512112/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Viale Italo Calvino, 49, Fonte Ostiense - Laurentino - Acqua...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37512100/",
+    "data_email": "Wed, 18 Nov 2026 09:30:37 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Pietro de Cristofaro, 55, Degli Eroi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Degli Eroi",
+    "link": "https://www.idealista.it/immobile/37520385/",
+    "data_email": "Wed, 18 Nov 2026 10:03:08 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Piazza di Santa Maria alle Fornaci s.n.c, Aurelio - Gregorio...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37521023/",
+    "data_email": "Wed, 18 Nov 2026 10:44:17 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Stazione di San Pietro s.n.c, Aurelio - Gregorio V...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37521076/",
+    "data_email": "Wed, 18 Nov 2026 10:44:19 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Viale Battista Bardanzellu, Colli Aniene, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Colli Aniene",
+    "link": "https://www.idealista.it/immobile/37521149/",
+    "data_email": "Wed, 18 Nov 2026 10:44:42 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Piazzale Roberto Ardigò s.n.c, Ardeatino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Ardeatino",
+    "link": "https://www.idealista.it/immobile/37521466/",
+    "data_email": "Wed, 18 Nov 2026 10:54:10 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Franco Donatelli, 6, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37522368/",
+    "data_email": "Wed, 18 Nov 2026 11:23:07 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Franco Donatelli, 6, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37522499/",
+    "data_email": "Wed, 18 Nov 2026 11:26:39 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Largo Guido Martina, 7, Mezzocammino, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Mezzocammino",
+    "link": "https://www.idealista.it/immobile/37522572/",
+    "data_email": "Wed, 18 Nov 2026 11:29:02 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
