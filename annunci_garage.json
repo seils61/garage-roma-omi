@@ -25838,5 +25838,285 @@
     "data_email": "Mon, 23 Nov 2026 16:22:48 +0100 (CET)",
     "portale": "idealista",
     "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "garage - box all'asta via Scorticabove 53, Roma﻿",
+    "prezzo": 59000,
+    "superficie_mq": 26,
+    "zona": "Rocca Cencia",
+    "link": "https://clicks.immobiliare.it/f/a/BfbZl1MP9_PKRzm-F5Wtrw~~/AAAHahA~/J5QC6CMU0lpTmEqfiVGmzgwSe31ynPgeqCa8BG8d02M_72UaULvI0cSX66LT4vIEslJMZXZO20p1kaDUKuXzU5qVKNLNdp2_cANHW2GKsMY3N9vTtZF6XDQtaDV9WFoM4UaYxbBxPRbFTyJmteTwYJw8Lqz4jXPX4-wHOTzn6fc1EekNyJWZXNuDqG0qvG5BZJjDDDUU0c_3pJXUsFqmSZVtolLzCpZiVd6vQqkmVjtfMMBmCmkl8XsJ-D2sl8gZ",
+    "data_email": "Tue, 24 Nov 2026 06:05:46 +0000",
+    "portale": "immobiliare",
+    "oggetto_email": " 10 nuovi annunci per la tua ricerca 🔔 : Immobili in vendita a Roma "
+  },
+  {
+    "titolo": "Garage in Via di Scorticabove, 53, San Basilio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "San Basilio",
+    "link": "https://www.idealista.it/immobile/37581939/",
+    "data_email": "Tue, 24 Nov 2026 08:12:38 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via di Scorticabove, 53, San Basilio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "San Basilio",
+    "link": "https://www.idealista.it/immobile/37582382/",
+    "data_email": "Tue, 24 Nov 2026 08:49:48 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via San Godenzo, 191, Cassia - San Godenzo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Cassia - San Godenzo",
+    "link": "https://www.idealista.it/immobile/37582306/",
+    "data_email": "Tue, 24 Nov 2026 08:45:24 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage a Battistini, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37577768/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Scorticabove, 53, San Basilio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "San Basilio",
+    "link": "https://www.idealista.it/immobile/37577663/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via Legnano, 58, Casal Morena, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casal Morena",
+    "link": "https://www.idealista.it/immobile/37576507/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Vicolo del Fosso di Sant&#39;Andrea, 59, Casal Morena, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casal Morena",
+    "link": "https://www.idealista.it/immobile/37576324/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage a Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37575890/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via dei Gonzaga, 137, Pisana - Bravetta, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Pisana - Bravetta",
+    "link": "https://www.idealista.it/immobile/37575871/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage a Ostia Ponente, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37575857/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via di Boccea, 470, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37575259/",
+    "data_email": "Tue, 24 Nov 2026 09:34:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Riepilogo giornaliero dei nuovi annunci"
+  },
+  {
+    "titolo": "Garage in Via della Pineta Sacchetti, Gemelli, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Gemelli",
+    "link": "https://www.idealista.it/immobile/37584081/",
+    "data_email": "Tue, 24 Nov 2026 10:46:24 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Giorgio de Lullo, 130, Giardino di Roma, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Giardino di Roma",
+    "link": "https://www.idealista.it/immobile/37584107/",
+    "data_email": "Tue, 24 Nov 2026 10:49:26 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Leopoldo Micucci, 91, Romanina, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "91",
+    "link": "https://www.idealista.it/immobile/37584796/",
+    "data_email": "Tue, 24 Nov 2026 11:00:13 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via della Stazione di San Pietro s.n.c, Aurelio - Gregorio V...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37584048/",
+    "data_email": "Tue, 24 Nov 2026 11:03:38 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Piazza di Santa Maria alle Fornaci s.n.c, Aurelio - Gregorio...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37583880/",
+    "data_email": "Tue, 24 Nov 2026 11:03:44 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via dei Frassini, Centocelle, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Centocelle",
+    "link": "https://www.idealista.it/immobile/37585621/",
+    "data_email": "Tue, 24 Nov 2026 11:38:00 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Mombaruzzo, 120, Casalotti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casalotti",
+    "link": "https://www.idealista.it/immobile/37585733/",
+    "data_email": "Tue, 24 Nov 2026 11:45:54 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Mombaruzzo, 120, Casalotti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casalotti",
+    "link": "https://www.idealista.it/immobile/37585755/",
+    "data_email": "Tue, 24 Nov 2026 11:46:17 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Mombaruzzo, 120, Casalotti, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Casalotti",
+    "link": "https://www.idealista.it/immobile/37585717/",
+    "data_email": "Tue, 24 Nov 2026 11:46:19 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Campione Ditalia, 19, Cortina d&#39;Ampezzo, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Cortina d&#39;Ampezzo",
+    "link": "https://www.idealista.it/immobile/37586240/",
+    "data_email": "Tue, 24 Nov 2026 12:11:14 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Marcello Provenzale s.n.c, Torrevecchia, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torrevecchia",
+    "link": "https://www.idealista.it/immobile/37586580/",
+    "data_email": "Tue, 24 Nov 2026 12:38:24 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Teodolfo Mertel, 66, Aurelia - Val Cannuta - Ergifee, Ro...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37587330/",
+    "data_email": "Tue, 24 Nov 2026 13:24:00 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Acerenza s.n.c, Appio Pignatelli - Quarto Miglio - Statu...",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "",
+    "link": "https://www.idealista.it/immobile/37587887/",
+    "data_email": "Tue, 24 Nov 2026 15:13:25 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Filippo Grispigni, 50, Colle Aurelio, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Colle Aurelio",
+    "link": "https://www.idealista.it/immobile/37587826/",
+    "data_email": "Tue, 24 Nov 2026 15:18:35 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Vito Artale, 10, Degli Eroi, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Degli Eroi",
+    "link": "https://www.idealista.it/immobile/37589515/",
+    "data_email": "Tue, 24 Nov 2026 17:21:27 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
+  },
+  {
+    "titolo": "Garage in Via Cornelio Sisenna, 30, Torre Spaccata, Roma",
+    "prezzo": null,
+    "superficie_mq": null,
+    "zona": "Torre Spaccata",
+    "link": "https://www.idealista.it/immobile/37591096/",
+    "data_email": "Tue, 24 Nov 2026 18:54:41 +0100 (CET)",
+    "portale": "idealista",
+    "oggetto_email": "Nuovo garage per la tua ricerca: Garage o posti auto a Roma!"
   }
 ]
